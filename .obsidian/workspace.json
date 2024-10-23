@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/Combat notes.md",
+                "file": "RPG/Rules/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Combat notes"
+              "title": "Untitled"
             }
           }
         ]
@@ -97,7 +97,7 @@
       {
         "id": "06eba70c04097076",
         "type": "tabs",
-        "dimension": 65.67342073897497,
+        "dimension": 28.240740740740737,
         "children": [
           {
             "id": "f425068ab5b540d4",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aviation/Study Notes/The Chart Clinic Series.md",
+                "file": "RPG/Rules/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Chart Clinic Series"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -146,19 +146,24 @@
             }
           },
           {
-            "id": "ee786128f8cee4c1",
+            "id": "682e0cf01e32769a",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "RPG/DnD 5e/Character Creation.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Character Creation"
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "658a61d1ed18208a",
+        "type": "tabs",
+        "dimension": 40.39351851851852,
+        "children": [
           {
-            "id": "c3a5a15df1002b54",
+            "id": "494df2e0532d157d",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -167,13 +172,12 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "bf900728a1647017",
         "type": "tabs",
-        "dimension": 34.32657926102503,
+        "dimension": 31.365740740740737,
         "children": [
           {
             "id": "7924a7111ec600bc",
@@ -193,25 +197,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "obsidian-importer:Open Importer": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3e237952b6f8216",
+  "active": "f425068ab5b540d4",
   "lastOpenFiles": [
-    "RPG/Combat/Initiative Cards.canvas",
-    "RPG/Combat notes.md",
-    "RPG/Combat/Combat.md",
+    "RPG/Rules/Untitled.md",
+    "RPG/Rules/Rules.md",
+    "To-do.canvas",
+    "RPG/Rules",
+    "RPG/Untitled.md",
     "Untitled.canvas",
+    "Untitled 1.canvas",
+    "RPG/RPG.md",
+    "Today.md",
+    "RPG/Combat/Combat.md",
+    "RPG/Combat/Combat notes.md",
+    "RPG/Combat/Initiative Cards.canvas",
     "RPG/Combat",
     "Aviation/CAE Oxford Book 1 -  Air Law.md",
     "RPG/DnD 5e/Character Creation.md",
@@ -224,7 +236,6 @@
     "Aviation/The Chart Clinic Series.md",
     "Vault.md",
     "Excalidraw/Excalidraw.md",
-    "Today.md",
     "Untitled.md",
     "Excalidraw",
     "Aviation/Index.md",

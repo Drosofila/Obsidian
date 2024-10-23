@@ -45,8 +45,9 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
+    "//RPG/RPG/DnD 5e",
     "//RPG",
-    "//RPG/RPG/DnD 5e"
+    "//RPG/RPG/Rules"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
