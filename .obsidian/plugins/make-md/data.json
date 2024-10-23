@@ -47,7 +47,9 @@
     "/",
     "//RPG/RPG/DnD 5e",
     "//RPG",
-    "//RPG/RPG/Rules"
+    "//RPG/RPG/Rules",
+    "//RPG/RPG/Core",
+    "//RPG/RPG/PCs"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

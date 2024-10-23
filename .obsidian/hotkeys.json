@@ -13,20 +13,36 @@
       "key": " "
     }
   ],
-  "creases:toggle-fold-heading-level-3": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "."
-    }
-  ],
   "editor:toggle-highlight": [
     {
       "modifiers": [
         "Shift"
       ],
       "key": " "
+    }
+  ],
+  "creases:toggle-crease": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ],
+  "creases:fold": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
+  ],
+  "creases:clear-creases": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
     }
   ]
 }

@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"13a22943ee25e1b4","type":"text","text":"# Basic Stuff:\n- Name, Race, Class, etc…","x":-580,"y":-160,"width":320,"height":100},
+		{"id":"39a798d6ad7b8b77","type":"text","text":"Roll for the Ability Stats\nSet the lvl1 HP","x":-545,"y":0,"width":250,"height":80},
+		{"id":"26d5701608c9ef1d","type":"text","text":"Record all the class and race proficiencies and apply the points in the sheet for lvl1.","x":-545,"y":120,"width":250,"height":128},
+		{"id":"e076ce0f746e6284","type":"text","text":"Record the standard equipment and wealth for the class","x":-150,"y":-159,"width":250,"height":99},
+		{"id":"959e08913171d920","x":-149,"y":11,"width":250,"height":109,"type":"text","text":"Choose, record and set up all the spells if needed."},
+		{"id":"276d0fb312a087d7","x":-148,"y":191,"width":250,"height":60,"type":"text","text":"Level up for lvl2 and lvl3"},
+		{"id":"340bd19185326930","x":160,"y":90,"width":220,"height":60,"type":"text","text":"HP increase (choice)"},
+		{"id":"39019db7bf448694","x":160,"y":188,"width":150,"height":60,"type":"text","text":"Class Feats"},
+		{"id":"6aea7bb5feeec2dc","x":160,"y":283,"width":150,"height":60,"type":"text","text":"Subclass "},
+		{"id":"a101399154d68687","x":-148,"y":391,"width":250,"height":69,"type":"text","text":"Final revision of the sheet"},
+		{"id":"8fe785c108b6e8d0","x":211,"y":397,"width":210,"height":60,"type":"text","text":"Answer questions"},
+		{"id":"002c54569dcee40f","type":"text","text":"Go to the Background section and define all the shit that has to be defined there and record in the sheet.","x":-545,"y":293,"width":250,"height":167}
+	],
+	"edges":[
+		{"id":"a9034d6ed48d57a3","fromNode":"13a22943ee25e1b4","fromSide":"bottom","toNode":"39a798d6ad7b8b77","toSide":"top"},
+		{"id":"f6bbc312f86bbe0d","fromNode":"39a798d6ad7b8b77","fromSide":"bottom","toNode":"26d5701608c9ef1d","toSide":"top"},
+		{"id":"ae0ad4ac6fdd7c13","fromNode":"26d5701608c9ef1d","fromSide":"bottom","toNode":"002c54569dcee40f","toSide":"top"},
+		{"id":"b3c38b05b6e6d20c","fromNode":"002c54569dcee40f","fromSide":"right","toNode":"e076ce0f746e6284","toSide":"left"},
+		{"id":"d0b2643d80724459","fromNode":"e076ce0f746e6284","fromSide":"bottom","toNode":"959e08913171d920","toSide":"top"},
+		{"id":"255be8bf06e6b361","fromNode":"959e08913171d920","fromSide":"bottom","toNode":"276d0fb312a087d7","toSide":"top"},
+		{"id":"f621cdf1afd5f05e","fromNode":"276d0fb312a087d7","fromSide":"right","toNode":"340bd19185326930","toSide":"left"},
+		{"id":"e86f8cb9bcfd5cb6","fromNode":"276d0fb312a087d7","fromSide":"right","toNode":"39019db7bf448694","toSide":"left"},
+		{"id":"fec995c18f1ca681","fromNode":"276d0fb312a087d7","fromSide":"right","toNode":"6aea7bb5feeec2dc","toSide":"left"},
+		{"id":"57fda39e4c85a98f","fromNode":"276d0fb312a087d7","fromSide":"bottom","toNode":"a101399154d68687","toSide":"top"},
+		{"id":"87b2fe38da0a63c2","fromNode":"a101399154d68687","fromSide":"right","toNode":"8fe785c108b6e8d0","toSide":"left"}
+	]
+}

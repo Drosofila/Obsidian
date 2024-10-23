@@ -10,5 +10,8 @@
   "templater-obsidian",
   "image-converter",
   "obsidian-git",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-smart-typography",
+  "creases",
+  "obsidian-mind-map"
 ]

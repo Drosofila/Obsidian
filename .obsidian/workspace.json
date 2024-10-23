@@ -4,24 +4,75 @@
     "type": "split",
     "children": [
       {
-        "id": "fe63eae1a49bc9a5",
-        "type": "tabs",
+        "id": "9b5463d7462836b6",
+        "type": "split",
+        "dimension": 54.643962848297214,
         "children": [
           {
-            "id": "a3e237952b6f8216",
+            "id": "1a1dbd8a07c449c9",
+            "type": "tabs",
+            "dimension": 62.61574074074075,
+            "children": [
+              {
+                "id": "b4ee0339d29c6887",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "RPG/PCs/Murilo.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Murilo"
+                }
+              }
+            ]
+          },
+          {
+            "id": "7564fdc01f8e0f22",
+            "type": "tabs",
+            "dimension": 37.38425925925926,
+            "children": [
+              {
+                "id": "80a0792de99878ae",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "RPG/Core/Flow.canvas",
+                    "viewState": {
+                      "x": -201.7972081145773,
+                      "y": -83.25890579504727,
+                      "zoom": -0.4360060945586705
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Flow"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "da7d3f8cfa3af3a7",
+        "type": "tabs",
+        "dimension": 45.356037151702786,
+        "children": [
+          {
+            "id": "2144453115444996",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "To-do.canvas",
-                "viewState": {
-                  "x": -90,
-                  "y": -50,
-                  "zoom": 0
-                }
+                "file": "RPG/Core/Character Creation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "To-do"
+              "icon": "lucide-file",
+              "title": "Character Creation"
             }
           }
         ]
@@ -77,7 +128,7 @@
             }
           },
           {
-            "id": "7345ccc18838df2d",
+            "id": "020f207a2e34d769",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -103,12 +154,24 @@
         "dimension": 38.818076477404404,
         "children": [
           {
+            "id": "06b83f41311e0c9f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RPG/Core/Flow.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Flow"
+            }
+          },
+          {
             "id": "f425068ab5b540d4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To-do.canvas",
+                "file": "RPG/Core/Character Creation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +181,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for To-do"
+              "title": "Backlinks for Character Creation"
             }
           },
           {
@@ -157,6 +220,16 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "db977b0a692a340f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       },
@@ -179,7 +252,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,20 +270,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3e237952b6f8216",
+  "active": "80a0792de99878ae",
   "lastOpenFiles": [
-    "RPG/Rules/Untitled.md",
-    "RPG/Rules/Rules.md",
-    "To-do.canvas",
-    "RPG/Rules",
+    "RPG/PCs/Murilo.md",
+    "RPG/Core/Flow.canvas",
+    "RPG/Core/Master's Guide - Chapter 8.md",
+    "RPG/Core/Character Creation.md",
+    "RPG/Core/Rules from PH.md",
+    "RPG/Combat/Combat notes.md",
+    "RPG/Core/running.md",
+    "RPG/Combat/Initiative Cards.canvas",
+    "RPG/PCs/Ayres.md",
+    "RPG/PCs/PCs.md",
+    "RPG/PCs",
     "RPG/Untitled.md",
+    "RPG/Core/Core.md",
+    "image1.md",
+    "RPG/RPG.md",
+    "To-do.canvas",
+    "RPG/Core",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "RPG/RPG.md",
     "Today.md",
     "RPG/Combat/Combat.md",
-    "RPG/Combat/Combat notes.md",
-    "RPG/Combat/Initiative Cards.canvas",
     "RPG/Combat",
     "Aviation/CAE Oxford Book 1 -  Air Law.md",
     "RPG/DnD 5e/Character Creation.md",
@@ -227,24 +310,17 @@
     "Aviation/Index.md",
     "Aviation/B737 Approach Flow.md",
     "Aviation/B38M Differences Notes.md",
-    "Aviation/Some Approach Charts Notes.md",
-    "Aviation/Dispatch Fuel Requirements.md",
     "Attatchments/image 14.png",
     "Pasted image 20241021131554.png",
     "Attatchments/image 10.png",
     "Attatchments/image 11.png",
-    "Images/image 14.png.md",
     "Attatchments/image.png",
     "Attatchments",
     "Images/Pasted image 20241021131330.png",
     "Attatchments/image 13.png",
     "Aviation/Study Notes",
-    "Notion/Study Notes.md",
     "Notion",
     "Aviation",
-    "RPG/DnD 5e/Untitled.md",
-    "RPG/DnD 5e",
-    "RPG",
-    "Welcome.md"
+    "RPG/DnD 5e"
   ]
 }

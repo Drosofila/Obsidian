@@ -1,6 +1,6 @@
 {
   "lightStyle": "minimal-light",
-  "darkStyle": "minimal-dark",
+  "darkStyle": "minimal-dark-tonal",
   "lightScheme": "minimal-default-light",
   "darkScheme": "minimal-macos-dark",
   "editorFont": "",
@@ -21,7 +21,7 @@
   "colorfulActiveStates": false,
   "trimNames": true,
   "labeledNav": true,
-  "fullWidthMedia": true,
+  "fullWidthMedia": false,
   "bordersToggle": true,
   "minimalStatus": true,
   "focusMode": false,
