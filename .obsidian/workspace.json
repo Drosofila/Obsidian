@@ -11,14 +11,17 @@
             "id": "a3e237952b6f8216",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "RPG/Rules/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "To-do.canvas",
+                "viewState": {
+                  "x": -90,
+                  "y": -50,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-layout-dashboard",
+              "title": "To-do"
             }
           }
         ]
@@ -97,7 +100,7 @@
       {
         "id": "06eba70c04097076",
         "type": "tabs",
-        "dimension": 28.240740740740737,
+        "dimension": 38.818076477404404,
         "children": [
           {
             "id": "f425068ab5b540d4",
@@ -105,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/Rules/Untitled.md",
+                "file": "To-do.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for To-do"
             }
           },
           {
@@ -160,7 +163,7 @@
       {
         "id": "658a61d1ed18208a",
         "type": "tabs",
-        "dimension": 40.39351851851852,
+        "dimension": 61.181923522595596,
         "children": [
           {
             "id": "494df2e0532d157d",
@@ -173,27 +176,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "bf900728a1647017",
-        "type": "tabs",
-        "dimension": 31.365740740740737,
-        "children": [
-          {
-            "id": "7924a7111ec600bc",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f425068ab5b540d4",
+  "active": "494df2e0532d157d",
   "lastOpenFiles": [
     "RPG/Rules/Untitled.md",
     "RPG/Rules/Rules.md",
