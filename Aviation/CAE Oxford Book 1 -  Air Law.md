@@ -94,8 +94,14 @@ tags:
 ### Chapter 19
 ---
 - Questions:
-- 
-
+---
+- Annex 14
+- Movement area: Maneuvering area, aprons and maintenance facilities
+- Maneuvering area: Runways, taxiways and stop ways.
+- Apron (ramp): Where passengers and cargo are loaded into and out of the plane. Also where the altimeter should be checked
+- Taxiways:
+	- Rapid exit taxiways: between 35 kt and 50 kt speed, angle not more than 45 degrees, less than 25 degrees, preferably 30 degrees.
+	- 
 
 
 ### Chapter 20

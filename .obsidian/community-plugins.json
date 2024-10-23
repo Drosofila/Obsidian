@@ -9,5 +9,6 @@
   "obsidian-excalidraw-plugin",
   "templater-obsidian",
   "image-converter",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-linter"
 ]

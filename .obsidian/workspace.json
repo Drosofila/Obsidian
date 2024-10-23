@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aviation/CAE Oxford Book 1 -  Air Law.md",
+                "file": "RPG/Combat notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CAE Oxford Book 1 -  Air Law"
+              "title": "Combat notes"
             }
           }
         ]
@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "9656fa24a5bd7664",
+            "id": "7345ccc18838df2d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 244.5
   },
   "right": {
     "id": "ac56926306a96f0e",
@@ -98,7 +97,7 @@
       {
         "id": "06eba70c04097076",
         "type": "tabs",
-        "dimension": 61.72680412371135,
+        "dimension": 65.67342073897497,
         "children": [
           {
             "id": "f425068ab5b540d4",
@@ -174,7 +173,7 @@
       {
         "id": "bf900728a1647017",
         "type": "tabs",
-        "dimension": 38.27319587628865,
+        "dimension": 34.32657926102503,
         "children": [
           {
             "id": "7924a7111ec600bc",
@@ -190,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5,
-    "collapsed": true
+    "width": 238.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,9 +208,14 @@
   },
   "active": "a3e237952b6f8216",
   "lastOpenFiles": [
-    "Aviation/An Unexpected Mathematical Explanation of the Great Circle concept.md",
+    "RPG/Combat/Initiative Cards.canvas",
+    "RPG/Combat notes.md",
+    "RPG/Combat/Combat.md",
+    "Untitled.canvas",
+    "RPG/Combat",
     "Aviation/CAE Oxford Book 1 -  Air Law.md",
     "RPG/DnD 5e/Character Creation.md",
+    "Aviation/An Unexpected Mathematical Explanation of the Great Circle concept.md",
     "Attatchments/Character Creation-20241022111920236.webp",
     "Excalidraw/Drawing 2024-10-21 14.18.44.excalidraw.md",
     "Attatchments/Pasted image 20241021174141.png",
@@ -226,7 +229,6 @@
     "Excalidraw",
     "Aviation/Index.md",
     "Aviation/B737 Approach Flow.md",
-    "Untitled.canvas",
     "Aviation/B38M Differences Notes.md",
     "Aviation/Some Approach Charts Notes.md",
     "Aviation/Dispatch Fuel Requirements.md",

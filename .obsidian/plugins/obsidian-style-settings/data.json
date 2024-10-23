@@ -1,7 +1,7 @@
 {
-  "Components@@tab-autohide": true,
+  "Components@@tab-autohide": false,
   "Components@@status-bar-autohide": false,
-  "Components@@Ribbon-autohide": true,
+  "Components@@Ribbon-autohide": false,
   "Components@@nav-header-autohide": false,
   "Components@@tab-title-bar-autohide": false,
   "Components@@vault-profile-autohide": false,
@@ -11,5 +11,9 @@
   "Components@@outline-enhanced": true,
   "Appearance-dark@@mod-left-split-background-select-dark": "mod-left-split-background-primary-dark",
   "Appearance-dark@@theme-dark-style-select": "theme-dark-background-black",
-  "Appearance-dark@@card-layout-open-dark": false
+  "Appearance-dark@@card-layout-open-dark": false,
+  "Appearance-dark@@card-border-radius-dark": "8px",
+  "Editor@@p-spacing-br": false,
+  "Editor@@line-height-customize": 1.7,
+  "Editor@@collapse-icon-restore": true
 }
