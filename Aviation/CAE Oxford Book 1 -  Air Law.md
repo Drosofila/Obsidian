@@ -1,8 +1,7 @@
 ---
-tags:
-  - CAE
+tags: []
 ---
-### Chapter 13 - SSR and ACAS  
+# Chapter 13 - SSR and ACAS  
 
 - Questions: ==100% 8/8==
 - Secondary Surveillance Radar
@@ -17,7 +16,7 @@ tags:
     - TA: traffic advisory - Advises of a potential threat (that can become a RA). No need to maneuver the aircraft for a TA.
     - RA: Resolution Advisory - Need for immediate action by the pilot following the RA maneuver or whichever maneuver necessary to clear the conflict.
     - Always notify ATC.
-### Chapter 14 - Airspace 
+# Chapter 14 - Airspace 
 
 - Questions: ==83% - 31/37== - 3, 6, 10, 19, 23, 37
 - FIR: Flight Information Region
@@ -44,9 +43,9 @@ tags:
 - Class E provides ATC only to IFR traffic
 - RNP: Required Navigation Performance - a numerical representation of the required accuracy that the aircraft has to maintain for 95% while within the RNP airspace. The value is specified by the state.
 
-### Chapter 15 - ATS
+# Chapter 15 - ATS
 
-### Chapter 16 - Separation 
+# Chapter 16 - Separation 
 
 - 82% - ==41/50== - 4, 5, 8, 17, 21, 27, 32, 34, 48
 - Vertical Separation
@@ -85,13 +84,13 @@ tags:
     - Departures: 2 minutes
     - Landing: 3 minutes (2 minutes for medium behind heavy)
 
-### Chapter 17 - Control of Aircraft
+# Chapter 17 - Control of Aircraft
 - Questions: 87% - 35/40 - 2, 7, 13, 28, 39
 
-### Chapter 18 - Aeronautical Information Service
+# Chapter 18 - Aeronautical Information Service
 ---
 - Questions: 
-### Chapter 19
+# Chapter 19
 ---
 - Questions:
 ---
@@ -104,4 +103,4 @@ tags:
 	- 
 
 
-### Chapter 20
+# Chapter 20

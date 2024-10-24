@@ -4,51 +4,66 @@
     "type": "split",
     "children": [
       {
-        "id": "9b5463d7462836b6",
+        "id": "f4ef1aa5195047fb",
         "type": "split",
-        "dimension": 54.643962848297214,
+        "dimension": 42.177419354838705,
         "children": [
           {
-            "id": "1a1dbd8a07c449c9",
+            "id": "4ccf65e92e7c2815",
             "type": "tabs",
-            "dimension": 62.61574074074075,
+            "dimension": 37.96296296296296,
             "children": [
               {
-                "id": "b4ee0339d29c6887",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "RPG/PCs/Murilo.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Murilo"
-                }
-              }
-            ]
-          },
-          {
-            "id": "7564fdc01f8e0f22",
-            "type": "tabs",
-            "dimension": 37.38425925925926,
-            "children": [
-              {
-                "id": "80a0792de99878ae",
+                "id": "ca49ca934995b48c",
                 "type": "leaf",
                 "state": {
                   "type": "canvas",
                   "state": {
-                    "file": "RPG/Core/Flow.canvas",
+                    "file": "RPG/Core/Character Creation/Tables.canvas",
                     "viewState": {
-                      "x": -201.7972081145773,
-                      "y": -83.25890579504727,
-                      "zoom": -0.4360060945586705
+                      "x": 474.64247755242445,
+                      "y": 352.8056619648519,
+                      "zoom": -1.3333333333333333
                     }
                   },
                   "icon": "lucide-layout-dashboard",
-                  "title": "Flow"
+                  "title": "Tables"
+                }
+              },
+              {
+                "id": "28582a0946934fba",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "RPG/Core/Character Creation/Backgrounds.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Backgrounds"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "4ac9034553c064b8",
+            "type": "tabs",
+            "dimension": 62.03703703703704,
+            "children": [
+              {
+                "id": "a3d6f120fa180515",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "RPG/Core/Character Creation/PCs/Luiz.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Luiz"
                 }
               }
             ]
@@ -57,22 +72,22 @@
         "direction": "horizontal"
       },
       {
-        "id": "da7d3f8cfa3af3a7",
+        "id": "b7e9e30107c06148",
         "type": "tabs",
-        "dimension": 45.356037151702786,
+        "dimension": 57.822580645161295,
         "children": [
           {
-            "id": "2144453115444996",
+            "id": "48a7893a5216adc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/Core/Character Creation.md",
+                "file": "RPG/Core/Character Creation/Streamlined process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Character Creation"
+              "title": "Streamlined process"
             }
           }
         ]
@@ -128,7 +143,7 @@
             }
           },
           {
-            "id": "020f207a2e34d769",
+            "id": "59d3be4ae9d173d0",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -142,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 295.5
   },
   "right": {
     "id": "ac56926306a96f0e",
@@ -159,10 +174,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/Core/Flow.canvas"
+                "file": "Aviation/CAE Oxford Book 1 -  Air Law.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Flow"
+              "title": "Outline of CAE Oxford Book 1 -  Air Law"
             }
           },
           {
@@ -270,57 +285,58 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80a0792de99878ae",
+  "active": "a3d6f120fa180515",
   "lastOpenFiles": [
-    "RPG/PCs/Murilo.md",
-    "RPG/Core/Flow.canvas",
-    "RPG/Core/Master's Guide - Chapter 8.md",
-    "RPG/Core/Character Creation.md",
+    "RPG/Core/Character Creation/Backgrounds.md",
+    "RPG/Core/Character Creation/PCs/Luiz.md",
+    "RPG/Core/Character Creation/Streamlined process.md",
+    "RPG/Core/Character Creation/Tables.canvas",
+    "RPG/Core/Character Creation/Flow.canvas",
+    "RPG/Core/Character Creation/PCs/Murilo.md",
+    "[[EquipmentPacks.png]].md",
+    "Attatchments/ContainerCapacity.png",
+    "Attatchments/EquipmentPacks.png",
+    "Attatchments/AdventuringGear2.png",
+    "Attatchments/AdventuringGear1.png",
+    "Attatchments/Weapons.png",
+    "Attatchments/Armor.png",
+    "RPG/Core/Character Creation/Character Creation.md",
+    "RPG/Core/Character Creation/Untitled.md",
     "RPG/Core/Rules from PH.md",
+    "RPG/Core/Character Creation/PCs/PCs.md",
+    "RPG/Core/Character Creation",
+    "RPG/Core/Master's Guide - Chapter 8.md",
+    "RPG/Core/Core.md",
+    "RPG/Core/Character Creation/PCs/Aldren.md",
+    "RPG/Core/Character Creation/PCs/João.md",
+    "RPG/Core/Character Creation/PCs/Henrique.md",
+    "RPG/Core/Character Creation/PCs/Ayres.md",
+    "RPG/Core/Character Creation/PCs/Felipe.md",
+    "Aviation/CAE Oxford Book 1 -  Air Law.md",
+    "Aviation/B737 Approach Flow.md",
+    "To-do.canvas",
     "RPG/Combat/Combat notes.md",
     "RPG/Core/running.md",
     "RPG/Combat/Initiative Cards.canvas",
-    "RPG/PCs/Ayres.md",
-    "RPG/PCs/PCs.md",
-    "RPG/PCs",
+    "RPG/Core/Character Creation/PCs",
     "RPG/Untitled.md",
-    "RPG/Core/Core.md",
     "image1.md",
     "RPG/RPG.md",
-    "To-do.canvas",
     "RPG/Core",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Today.md",
     "RPG/Combat/Combat.md",
     "RPG/Combat",
-    "Aviation/CAE Oxford Book 1 -  Air Law.md",
-    "RPG/DnD 5e/Character Creation.md",
-    "Aviation/An Unexpected Mathematical Explanation of the Great Circle concept.md",
     "Attatchments/Character Creation-20241022111920236.webp",
-    "Excalidraw/Drawing 2024-10-21 14.18.44.excalidraw.md",
     "Attatchments/Pasted image 20241021174141.png",
     "Attatchments/Pasted image 20241021174134.png",
     "Tags",
-    "Aviation/The Chart Clinic Series.md",
-    "Vault.md",
-    "Excalidraw/Excalidraw.md",
-    "Untitled.md",
     "Excalidraw",
-    "Aviation/Index.md",
-    "Aviation/B737 Approach Flow.md",
-    "Aviation/B38M Differences Notes.md",
     "Attatchments/image 14.png",
-    "Pasted image 20241021131554.png",
-    "Attatchments/image 10.png",
-    "Attatchments/image 11.png",
-    "Attatchments/image.png",
     "Attatchments",
-    "Images/Pasted image 20241021131330.png",
-    "Attatchments/image 13.png",
     "Aviation/Study Notes",
     "Notion",
-    "Aviation",
-    "RPG/DnD 5e"
+    "Aviation"
   ]
 }

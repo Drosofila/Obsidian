@@ -36,5 +36,6 @@
   "minimal-style@@file-header-visibility": "minimal-tab-title-visible",
   "minimal-style@@file-header-justify": "left",
   "minimal-style@@window-title-off": false,
-  "minimal-advanced@@cursor": "default"
+  "minimal-advanced@@cursor": "default",
+  "minimal-advanced@@animations": "fast-animations"
 }

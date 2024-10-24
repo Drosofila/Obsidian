@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"f2a2986f475a9552","type":"text","text":"# Casa\n\n- [ ] Lavar louça\n- [ ] Colocar roupa pra lavar\n- [ ] Guardar roupa no varal\n---\n","x":-480,"y":-380,"width":340,"height":300},
+		{"id":"f2a2986f475a9552","type":"text","text":"# Casa\n\n- [x] Lavar louça\n- [x] Colocar roupa pra lavar\n- [x] Guardar roupa no varal\n---\n","x":-480,"y":-380,"width":340,"height":300},
 		{"id":"24d63a473905a1bc","type":"text","text":"# Estudar\n\n- [ ] CAE 1 - Ch. 20 and 21.\n- [ ] Chart Clinic","x":-100,"y":-380,"width":400,"height":200},
 		{"id":"9362628a0b35018f","type":"text","text":"# RPG\n\n- [ ] Procurar qual ficha é melhor\n- [ ] ","x":-480,"y":-40,"width":340,"height":280}
 	],

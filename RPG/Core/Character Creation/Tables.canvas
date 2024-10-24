@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9656431dc62d72c9","type":"file","file":"Attatchments/Weapons.png","x":-680,"y":40,"width":880,"height":1012},
+		{"id":"9844ff90cafa57ae","type":"file","file":"Attatchments/AdventuringGear1.png","x":240,"y":-440,"width":880,"height":804},
+		{"id":"86f96b2ee36dd3a2","type":"file","file":"Attatchments/AdventuringGear2.png","x":1160,"y":-440,"width":1096,"height":538},
+		{"id":"3e7fcc11ef2a0d21","type":"file","file":"Attatchments/ContainerCapacity.png","x":240,"y":400,"width":640,"height":526},
+		{"id":"102391f580d4a52b","type":"file","file":"Attatchments/EquipmentPacks.png","x":1160,"y":160,"width":720,"height":1117},
+		{"id":"4299a755c82638ea","type":"file","file":"Attatchments/Armor.png","x":-680,"y":-440,"width":880,"height":446,"color":"1"}
+	],
+	"edges":[]
+}
