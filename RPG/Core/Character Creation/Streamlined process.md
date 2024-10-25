@@ -52,22 +52,28 @@
 # Table probably
 
 
-|        | Hit Dice |     |     |     |     |     |     |     |
-| ------ | -------- | --- | --- | --- | --- | --- | --- | --- |
-| Ranger |          |     |     |     |     |     |     |     |
-| Druid  | 1d8/5    |     |     |     |     |     |     |     |
-| Wizard | 1d6/4    |     |     |     |     |     |     |     |
-| Bard   | 1d8/5    |     |     |     |     |     |     |     |
-| Rogue  |          |     |     |     |     |     |     |     |
-| Cleric |          |     |     |     |     |     |     |     |
-Includes a backpack, a bedroll,
-a mess kit, a tinderbox, 10 torches, 10 days of rations, and
-a waterskin. lhe pack also has 50 feel of hempen rape
-strapped lo lhe side of it.
+|           | Hit Dice |     |     |     |     |     |     |     |
+| --------- | -------- | --- | --- | --- | --- | --- | --- | --- |
+| Ranger    | 1d10/    |     |     |     |     |     |     |     |
+| Druid     | 1d8/5    |     |     |     |     |     |     |     |
+| Wizard    | 1d6/4    |     |     |     |     |     |     |     |
+| Bard      | 1d8/5    |     |     |     |     |     |     |     |
+| Rogue     |          |     |     |     |     |     |     |     |
+| Cleric    |          |     |     |     |     |     |     |     |
+| Barbarian | 1d12/7   |     |     |     |     |     |     |     |
+|           |          |     |     |     |     |     |     |     |
+___ 
 
+|        | Aldren | João   | Ayres    | Murilo | Luiz   | Felipe     | Henrique         |     |
+| ------ | ------ | ------ | -------- | ------ | ------ | ---------- | ---------------- | --- |
+| Classe | Wizard | Bardo  | Barbaro  | Druida | Ranger | Cleric     | Rogue (assassin) |     |
+| Raça   | Anão   | Humano | Half-Orc | Elfo   | Elfo   | Dragonborn | Halfling         |     |
+| Ficha  |        |        | Feita    | Feita  | Feita  |            |                  |     |
+|        |        |        |          |        |        |            |                  |     |
+|        |        |        |          |        |        |            |                  |     |
 
-|        | Aldren | João   | Ayres         | Murilo | Luiz   | Felipe     | Henrique         |     |
-| ------ | ------ | ------ | ------------- | ------ | ------ | ---------- | ---------------- | --- |
-| Classe | Wizard | Bardo  | Rogue (thief) | Druida | Ranger | Cleric     | Rogue (assassin) |     |
-| Raça   | Anão   | Humano | Halfling      | Elfo   | Elfo   | Dragonborn | Halfling         |     |
-|        |        |        |               |        |        |            |                  |     |
+# To do:
+
+- [ ] Review proficiency bonus (all)
+- [ ] Attack Bonus (all)
+- [ ] 
