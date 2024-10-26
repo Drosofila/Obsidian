@@ -13,44 +13,64 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/Campaign/Prompts/Warlock's Quest Prompt.md",
+                "file": "RPG/Core/Master's Guide - Chapter 8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Warlock's Quest Prompt"
+              "title": "Master's Guide - Chapter 8"
             }
           },
           {
-            "id": "9b5eba38458367f2",
+            "id": "bdcec892cc48db0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "RPG/Campaign/Prompts/Warlock's Quest Prompt.md",
-                "mode": "source",
-                "source": false
+                "file": "RPG/Core/Chapter 8 Reference Tables.canvas",
+                "viewState": {
+                  "x": -360,
+                  "y": -230,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Warlock's Quest Prompt"
+              "icon": "lucide-layout-dashboard",
+              "title": "Chapter 8 Reference Tables"
             }
           },
           {
-            "id": "ad99868b7e78be25",
+            "id": "49d939a45c6e60fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/Core/Character Creation/Streamlined process.md",
+                "file": "RPG/Character Creation/Streamlined process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Streamlined process"
             }
+          },
+          {
+            "id": "4d3e0992a6bc1f67",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "RPG/Campaign/Inter-PC Hooks.canvas",
+                "viewState": {
+                  "x": 55.391060557891876,
+                  "y": 50.074326164005754,
+                  "zoom": -1.0150342326716821
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Inter-PC Hooks"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -103,7 +123,7 @@
             }
           },
           {
-            "id": "621959cc97e37e07",
+            "id": "a0ccb34641067582",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -126,7 +146,6 @@
       {
         "id": "06eba70c04097076",
         "type": "tabs",
-        "dimension": 38.818076477404404,
         "children": [
           {
             "id": "06b83f41311e0c9f",
@@ -134,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/Core/Character Creation/Streamlined process.md"
+                "file": "RPG/Campaign/Inter-PC Hooks.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of Streamlined process"
+              "title": "Outline of Inter-PC Hooks"
             }
           },
           {
@@ -187,16 +206,6 @@
             }
           },
           {
-            "id": "682e0cf01e32769a",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
             "id": "db977b0a692a340f",
             "type": "leaf",
             "state": {
@@ -204,23 +213,6 @@
               "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
-            }
-          }
-        ]
-      },
-      {
-        "id": "658a61d1ed18208a",
-        "type": "tabs",
-        "dimension": 61.181923522595596,
-        "children": [
-          {
-            "id": "494df2e0532d157d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
             }
           }
         ]
@@ -232,73 +224,70 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "obsidian-importer:Open Importer": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ad99868b7e78be25",
+  "active": "4d3e0992a6bc1f67",
   "lastOpenFiles": [
-    "RPG/Core/Character Creation/Backgrounds.md",
-    "RPG/Core/Character Creation/Streamlined process.md",
-    "RPG/Core/Character Creation/Classes and Races notes.md",
-    "RPG/Campaign/Main Plot.md",
-    "RPG/Core/Character Creation/PCs/Luiz.md",
-    "RPG/Campaign/Prompts/Warlock's Quest Prompt.md",
-    "[[Inter-PC.md",
+    "RPG/Core/Master's Guide - Chapter 8.md",
     "RPG/Campaign/Inter-PC Hooks.canvas",
+    "Attatchments/Pasted image 20241026145637.png",
+    "RPG/Character Creation/PCs/Luiz.md",
+    "RPG/Core/Chapter 8 Reference Tables.canvas",
+    "Excalidraw/Excalidraw.md",
+    "Excalidraw/Drawing 2024-10-26 14.53.03.excalidraw.md",
+    "Attatchments/image_0.png",
+    "Attatchments/Dump.md",
+    "Attatchments/Joao.jpg",
+    "Attatchments/felipe.jpg",
+    "Attatchments/Ayres.png",
+    "Attatchments/Aldren.png",
+    "RPG/Campaign/Prompts/Warlock's Quest Prompt.md",
+    "RPG/Character Creation/Streamlined process.md",
+    "Attatchments/Murilo.jpg",
+    "Attatchments/Luiz.png",
+    "RPG/Character Creation/Streamlined process1.md",
+    "RPG/Tutoriais/Roleplaying.md",
+    "Attatchments/TrackingDC.webp",
+    "RPG/Core/Rules from PH.md",
+    "Attatchments/MapTravelPace.webp",
+    "[[MapTravelPace.webp]].md",
+    "MapTravePace.webp.md",
+    "![[MapTravelPace.webp]].md",
+    "RPG/Tutoriais/Sua ficha de personagem, notas e organização..md",
+    "RPG/Tutoriais/Combate.md",
+    "RPG/Tutoriais/Ability Checks, Skills, Proficiencies, Saving Throws, (Dis)Advantage.md",
+    "RPG/Tutoriais/Tutoriais.md",
+    "RPG/Tutoriais",
+    "RPG/Untitled.md",
+    "RPG/Character Creation/Classes and Races notes.md",
+    "RPG/Character Creation/Backgrounds.md",
+    "RPG/Campaign/Main Plot.md",
+    "[[Inter-PC.md",
     "RPG/Campaign/Prompts/Prompts.md",
     "RPG/Campaign/Prompts",
-    "RPG/Core/Character Creation/PCs/Felipe.md",
-    "RPG/Core/Character Creation/Tables.canvas",
+    "RPG/Character Creation/PCs/Felipe.md",
+    "RPG/Character Creation/Tables.canvas",
     "RPG/Campaign/Stat Blocks.canvas",
-    "RPG/Core/Character Creation/Flow.canvas",
+    "RPG/Character Creation/Flow.canvas",
     "RPG/Campaign/Campaign.md",
     "RPG/Campaign",
-    "RPG/Untitled.md",
-    "RPG/Core/Character Creation/PCs/Murilo.md",
-    "Attatchments/LanguageList.png",
     "To-do.canvas",
-    "Aviation/Dispatch Fuel Requirements.md",
-    "Attatchments/image 6.png",
-    "Aviation/Some Approach Charts Notes.md",
-    "Attatchments/StartingWealth.png",
-    "RPG/Core/Character Creation/Character Creation.md",
-    "RPG/Core/Rules from PH.md",
-    "[[EquipmentPacks.png]].md",
-    "RPG/Core/Character Creation/PCs/Ayres.md",
-    "Attatchments/Pasted image 20241024231548.png",
-    "RPG/Core/Character Creation/PCs/Henrique.md",
-    "Attatchments/ContainerCapacity.png",
-    "Attatchments/EquipmentPacks.png",
-    "Attatchments/AdventuringGear2.png",
-    "Attatchments/AdventuringGear1.png",
-    "Attatchments/Weapons.png",
-    "Attatchments/Armor.png",
-    "RPG/Core/Character Creation/PCs/PCs.md",
-    "RPG/Core/Character Creation",
-    "RPG/Core/Master's Guide - Chapter 8.md",
-    "RPG/Core/Core.md",
-    "RPG/Core/Character Creation/PCs/Aldren.md",
-    "RPG/Core/Character Creation/PCs/João.md",
-    "Aviation/CAE Oxford Book 1 -  Air Law.md",
+    "RPG/Character Creation",
     "RPG/Combat/Initiative Cards.canvas",
-    "RPG/Core/Character Creation/PCs",
+    "RPG/Character Creation/PCs",
     "RPG/Core",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "RPG/Combat",
     "Tags",
     "Excalidraw",
-    "Attatchments",
-    "Aviation/Study Notes"
+    "Attatchments"
   ]
 }
