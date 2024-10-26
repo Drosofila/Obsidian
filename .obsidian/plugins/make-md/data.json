@@ -48,9 +48,10 @@
     "//RPG/RPG/DnD 5e",
     "//RPG",
     "//RPG/RPG/Rules",
-    "//RPG/RPG/Core",
+    "//RPG/RPG/Core/RPG/Core/Character Creation",
     "//RPG/RPG/Core/RPG/Core/Character Creation/RPG/Core/Character Creation/PCs",
-    "//RPG/RPG/Core/RPG/Core/Character Creation"
+    "//RPG/RPG/Campaign",
+    "//RPG/RPG/Core"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

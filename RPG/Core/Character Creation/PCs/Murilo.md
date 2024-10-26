@@ -14,3 +14,8 @@ ___
 
 - Dinheiro inicial vs Roleplay.
 - Funcionamento e escolha das proficiências.
+
+## Updates:
+
+- ~~Uma Lingua extra qualquer~~
+- ~~Mais uma skill qualquer~~

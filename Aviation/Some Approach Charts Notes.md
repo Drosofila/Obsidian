@@ -47,7 +47,7 @@
 
 - Now an example from the chart 21-2 ILS or LOC rwy 9L for KORD:
 
-![[image 6.png]]
+<center>[[image 6.png]]</center>
 
 On the plan view there are some points worthy of note. First the highest obstacle, identified by the bold arrow at 1508 ft to the right of the flight path. Second the black five-point star symbol to the left of the flight path - this indicates a hazard beacon. Third, there are numerous airports underlying the approach into O’Hare, identified by the grey circle with 6 chevrons (the star indicates that the airport has a beacon). In this specific approach, none of the the unidentified man-made obstacles are lighted.
 

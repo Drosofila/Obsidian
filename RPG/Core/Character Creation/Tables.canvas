@@ -1,12 +1,19 @@
 {
 	"nodes":[
 		{"id":"9844ff90cafa57ae","type":"file","file":"Attatchments/AdventuringGear1.png","x":240,"y":-440,"width":880,"height":804},
-		{"id":"86f96b2ee36dd3a2","type":"file","file":"Attatchments/AdventuringGear2.png","x":1160,"y":-440,"width":1096,"height":538},
-		{"id":"3e7fcc11ef2a0d21","type":"file","file":"Attatchments/ContainerCapacity.png","x":240,"y":400,"width":640,"height":526},
-		{"id":"102391f580d4a52b","type":"file","file":"Attatchments/EquipmentPacks.png","x":1160,"y":160,"width":720,"height":1117},
 		{"id":"4299a755c82638ea","type":"file","file":"Attatchments/Armor.png","x":-680,"y":-440,"width":880,"height":446,"color":"1"},
 		{"id":"9656431dc62d72c9","type":"file","file":"Attatchments/Weapons.png","x":-680,"y":40,"width":880,"height":1012},
-		{"id":"be804c86aa4540c9","x":-680,"y":1120,"width":880,"height":1094,"type":"file","file":"Attatchments/Pasted image 20241024231548.png"}
+		{"id":"143b95b0dd7d7493","type":"text","text":"# ARMOR AND WEAPONS","x":-390,"y":-540,"width":300,"height":60},
+		{"id":"86f96b2ee36dd3a2","type":"file","file":"Attatchments/AdventuringGear2.png","x":240,"y":380,"width":880,"height":432},
+		{"id":"102391f580d4a52b","type":"file","file":"Attatchments/EquipmentPacks.png","x":1160,"y":-440,"width":720,"height":1117},
+		{"id":"11acf8784aa59a6d","type":"file","file":"Attatchments/LanguageList.png","x":1930,"y":-440,"width":690,"height":847},
+		{"id":"3e7fcc11ef2a0d21","type":"file","file":"Attatchments/ContainerCapacity.png","x":2680,"y":-440,"width":640,"height":526},
+		{"id":"87f0a40868840f30","type":"file","file":"Attatchments/StartingWealth.png","x":3360,"y":-440,"width":826,"height":627},
+		{"id":"c2fd183c5af284c8","type":"text","text":"# GEAR","x":598,"y":-540,"width":165,"height":60}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"4aec95bb2270bb66","fromNode":"143b95b0dd7d7493","fromSide":"bottom","toNode":"4299a755c82638ea","toSide":"top"},
+		{"id":"678d97419e132a0e","fromNode":"4299a755c82638ea","fromSide":"bottom","toNode":"9656431dc62d72c9","toSide":"top"},
+		{"id":"24bdf48193fda09e","fromNode":"c2fd183c5af284c8","fromSide":"bottom","toNode":"9844ff90cafa57ae","toSide":"top"}
+	]
 }

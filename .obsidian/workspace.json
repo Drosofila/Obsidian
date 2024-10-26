@@ -4,80 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f4ef1aa5195047fb",
-        "type": "split",
-        "dimension": 36.935483870967744,
+        "id": "4ccf65e92e7c2815",
+        "type": "tabs",
         "children": [
           {
-            "id": "4ccf65e92e7c2815",
-            "type": "tabs",
-            "dimension": 23.174971031286212,
-            "children": [
-              {
-                "id": "ca49ca934995b48c",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "RPG/Core/Character Creation/Tables.canvas",
-                    "viewState": {
-                      "x": 474.64247755242445,
-                      "y": 352.8056619648519,
-                      "zoom": -1.3333333333333333
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Tables"
-                }
+            "id": "6e80cf8c146d2ef0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RPG/Campaign/Prompts/Warlock's Quest Prompt.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "28582a0946934fba",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "RPG/Core/Character Creation/Backgrounds.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Backgrounds"
-                }
-              }
-            ],
-            "currentTab": 1
+              "icon": "lucide-file",
+              "title": "Warlock's Quest Prompt"
+            }
           },
           {
-            "id": "4ac9034553c064b8",
-            "type": "tabs",
-            "dimension": 76.8250289687138,
-            "children": [
-              {
-                "id": "a3d6f120fa180515",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "RPG/Core/Character Creation/PCs/Ayres.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Ayres"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "b7e9e30107c06148",
-        "type": "tabs",
-        "dimension": 63.064516129032256,
-        "children": [
+            "id": "9b5eba38458367f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RPG/Campaign/Prompts/Warlock's Quest Prompt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Warlock's Quest Prompt"
+            }
+          },
           {
-            "id": "215dbdb927779608",
+            "id": "ad99868b7e78be25",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -89,25 +48,9 @@
               "icon": "lucide-file",
               "title": "Streamlined process"
             }
-          },
-          {
-            "id": "488b3af25790d1c5",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "RPG/Core/Character Creation/Tables.canvas",
-                "viewState": {
-                  "x": -165.77980348248116,
-                  "y": 451.42536511971457,
-                  "zoom": -0.7407236757568816
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Tables"
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +103,7 @@
             }
           },
           {
-            "id": "59d3be4ae9d173d0",
+            "id": "621959cc97e37e07",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -191,10 +134,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aviation/CAE Oxford Book 1 -  Air Law.md"
+                "file": "RPG/Core/Character Creation/Streamlined process.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of CAE Oxford Book 1 -  Air Law"
+              "title": "Outline of Streamlined process"
             }
           },
           {
@@ -302,28 +245,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "215dbdb927779608",
+  "active": "ad99868b7e78be25",
   "lastOpenFiles": [
-    "RPG/Core/Character Creation/PCs/Ayres.md",
-    "RPG/Core/Character Creation/Streamlined process.md",
-    "RPG/Core/Character Creation/Tables.canvas",
-    "Attatchments/Pasted image 20241024231548.png",
     "RPG/Core/Character Creation/Backgrounds.md",
-    "RPG/Core/Character Creation/Flow.canvas",
+    "RPG/Core/Character Creation/Streamlined process.md",
+    "RPG/Core/Character Creation/Classes and Races notes.md",
+    "RPG/Campaign/Main Plot.md",
     "RPG/Core/Character Creation/PCs/Luiz.md",
-    "RPG/Core/Character Creation/PCs/Henrique.md",
+    "RPG/Campaign/Prompts/Warlock's Quest Prompt.md",
+    "[[Inter-PC.md",
+    "RPG/Campaign/Inter-PC Hooks.canvas",
+    "RPG/Campaign/Prompts/Prompts.md",
+    "RPG/Campaign/Prompts",
     "RPG/Core/Character Creation/PCs/Felipe.md",
+    "RPG/Core/Character Creation/Tables.canvas",
+    "RPG/Campaign/Stat Blocks.canvas",
+    "RPG/Core/Character Creation/Flow.canvas",
+    "RPG/Campaign/Campaign.md",
+    "RPG/Campaign",
+    "RPG/Untitled.md",
     "RPG/Core/Character Creation/PCs/Murilo.md",
+    "Attatchments/LanguageList.png",
+    "To-do.canvas",
+    "Aviation/Dispatch Fuel Requirements.md",
+    "Attatchments/image 6.png",
+    "Aviation/Some Approach Charts Notes.md",
+    "Attatchments/StartingWealth.png",
+    "RPG/Core/Character Creation/Character Creation.md",
+    "RPG/Core/Rules from PH.md",
     "[[EquipmentPacks.png]].md",
+    "RPG/Core/Character Creation/PCs/Ayres.md",
+    "Attatchments/Pasted image 20241024231548.png",
+    "RPG/Core/Character Creation/PCs/Henrique.md",
     "Attatchments/ContainerCapacity.png",
     "Attatchments/EquipmentPacks.png",
     "Attatchments/AdventuringGear2.png",
     "Attatchments/AdventuringGear1.png",
     "Attatchments/Weapons.png",
     "Attatchments/Armor.png",
-    "RPG/Core/Character Creation/Character Creation.md",
-    "RPG/Core/Character Creation/Untitled.md",
-    "RPG/Core/Rules from PH.md",
     "RPG/Core/Character Creation/PCs/PCs.md",
     "RPG/Core/Character Creation",
     "RPG/Core/Master's Guide - Chapter 8.md",
@@ -331,29 +290,15 @@
     "RPG/Core/Character Creation/PCs/Aldren.md",
     "RPG/Core/Character Creation/PCs/João.md",
     "Aviation/CAE Oxford Book 1 -  Air Law.md",
-    "Aviation/B737 Approach Flow.md",
-    "To-do.canvas",
-    "RPG/Combat/Combat notes.md",
-    "RPG/Core/running.md",
     "RPG/Combat/Initiative Cards.canvas",
     "RPG/Core/Character Creation/PCs",
-    "RPG/Untitled.md",
-    "image1.md",
-    "RPG/RPG.md",
     "RPG/Core",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Today.md",
-    "RPG/Combat/Combat.md",
     "RPG/Combat",
-    "Attatchments/Character Creation-20241022111920236.webp",
-    "Attatchments/Pasted image 20241021174141.png",
-    "Attatchments/Pasted image 20241021174134.png",
     "Tags",
     "Excalidraw",
     "Attatchments",
-    "Aviation/Study Notes",
-    "Notion",
-    "Aviation"
+    "Aviation/Study Notes"
   ]
 }

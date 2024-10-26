@@ -58,8 +58,8 @@
 | Druid     | 1d8/5    |     |     |     |     |     |     |     |
 | Wizard    | 1d6/4    |     |     |     |     |     |     |     |
 | Bard      | 1d8/5    |     |     |     |     |     |     |     |
-| Rogue     |          |     |     |     |     |     |     |     |
-| Cleric    |          |     |     |     |     |     |     |     |
+| Rogue     | 1d8/5    |     |     |     |     |     |     |     |
+| Cleric    | 1d8/5    |     |     |     |     |     |     |     |
 | Barbarian | 1d12/7   |     |     |     |     |     |     |     |
 |           |          |     |     |     |     |     |     |     |
 ___ 
@@ -68,7 +68,7 @@ ___
 | ------ | ------ | ------ | -------- | ------ | ------ | ---------- | ---------------- | --- |
 | Classe | Wizard | Bardo  | Barbaro  | Druida | Ranger | Cleric     | Rogue (assassin) |     |
 | Raça   | Anão   | Humano | Half-Orc | Elfo   | Elfo   | Dragonborn | Halfling         |     |
-| Ficha  |        |        | Feita    | Feita  | Feita  |            |                  |     |
+| Ficha  |        |        | Feita    | Feita  | Feita  | Feita      |                  |     |
 |        |        |        |          |        |        |            |                  |     |
 |        |        |        |          |        |        |            |                  |     |
 

@@ -4,14 +4,15 @@
 		{"id":"39a798d6ad7b8b77","type":"text","text":"Roll for the Ability Stats\nSet the lvl1 HP","x":-545,"y":0,"width":250,"height":80},
 		{"id":"26d5701608c9ef1d","type":"text","text":"- Race Traits\n- Class Feats\n- Proficiencies","x":-545,"y":120,"width":250,"height":128},
 		{"id":"e076ce0f746e6284","type":"text","text":"Record the standard equipment and wealth for the class","x":-150,"y":-159,"width":250,"height":99},
-		{"id":"959e08913171d920","type":"text","text":"Choose, record and set up all the spells if needed.","x":-149,"y":11,"width":250,"height":109},
-		{"id":"276d0fb312a087d7","type":"text","text":"Level up for lvl2 and lvl3","x":-148,"y":191,"width":250,"height":60},
-		{"id":"340bd19185326930","type":"text","text":"HP increase (choice)","x":160,"y":90,"width":220,"height":60},
-		{"id":"39019db7bf448694","type":"text","text":"Class Feats","x":160,"y":188,"width":150,"height":60},
-		{"id":"6aea7bb5feeec2dc","type":"text","text":"Subclass ","x":160,"y":283,"width":150,"height":60},
+		{"id":"340bd19185326930","type":"text","text":"HP increase (choice)","x":160,"y":90,"width":220,"height":60,"color":"3"},
+		{"id":"39019db7bf448694","type":"text","text":"Class Feats","x":160,"y":188,"width":150,"height":60,"color":"3"},
+		{"id":"6aea7bb5feeec2dc","type":"text","text":"Subclass ","x":160,"y":283,"width":150,"height":60,"color":"3"},
 		{"id":"a101399154d68687","type":"text","text":"Final revision of the sheet","x":-148,"y":391,"width":250,"height":69},
 		{"id":"8fe785c108b6e8d0","type":"text","text":"Answer questions","x":211,"y":397,"width":210,"height":60},
-		{"id":"002c54569dcee40f","type":"text","text":"Go to the Background section and define all the shit that has to be defined there and record in the sheet.","x":-545,"y":293,"width":250,"height":167}
+		{"id":"002c54569dcee40f","type":"text","text":"Go to the Background section and define all the shit that has to be defined there and record in the sheet.","x":-545,"y":293,"width":250,"height":167},
+		{"id":"959e08913171d920","type":"text","text":"Choose, record and set up all the spells if needed.","x":-149,"y":66,"width":250,"height":109},
+		{"id":"276d0fb312a087d7","type":"text","text":"Level up for lvl2 and lvl3","x":-149,"y":218,"width":250,"height":60,"color":"3"},
+		{"id":"4f012efefdd0e8dd","x":-150,"y":-30,"width":250,"height":60,"type":"text","text":"Roll d100 for trinket"}
 	],
 	"edges":[
 		{"id":"a9034d6ed48d57a3","fromNode":"13a22943ee25e1b4","fromSide":"bottom","toNode":"39a798d6ad7b8b77","toSide":"top"},

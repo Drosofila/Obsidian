@@ -1,4 +1,4 @@
-# Ability Scores
+# Ability Scores %% fold %% 
 
 >***Strength: How hard you can throw a tomato at someone   
 >Dexterity: How many tomatoes you can dodge   
@@ -37,7 +37,7 @@
 * Checks that don’t involve dice rolls.  
 * Passive check total \= score.
 
-# The 6 Main Ability Scores:
+# The 6 Main Ability Scores: %% fold %% 
 
 ## Strength %% fold %% 
 
@@ -110,7 +110,7 @@
 * Each class has 2 abilities with saving throw proficiency
 
 
-# Adventuring
+# Adventuring %% fold %% 
 
 ## Time %% fold %% 
 
@@ -184,3 +184,7 @@
 - Uninterrupted
 - PCs regain all HP and Hit Dice up to a number of Half of their total.
 - Limited to every 24h periods.
+
+# Gods  %% fold %% 
+
+## 
