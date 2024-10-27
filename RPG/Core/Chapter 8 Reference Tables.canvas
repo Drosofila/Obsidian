@@ -1,7 +1,17 @@
 {
 	"nodes":[
 		{"id":"d24e39e01d02901e","type":"file","file":"Attatchments/MapTravelPace.webp","x":-560,"y":-440,"width":400,"height":231},
-		{"id":"4f8d12f88cf7c8ba","type":"file","file":"Attatchments/TrackingDC.webp","x":-560,"y":-180,"width":400,"height":160}
+		{"id":"4f8d12f88cf7c8ba","type":"file","file":"Attatchments/TrackingDC.webp","x":-560,"y":-160,"width":400,"height":160},
+		{"id":"83d9ff5036fe747a","type":"file","file":"Attatchments/ConversationReaction.webp","x":-120,"y":-440,"width":380,"height":452},
+		{"id":"559b6db0f21e1438","type":"file","file":"Attatchments/ObjectArmorClass.webp","x":-560,"y":60,"width":399,"height":137},
+		{"id":"90929c1e9adce7cb","type":"file","file":"Attatchments/PoisonsTable.webp","x":-120,"y":38,"width":400,"height":366},
+		{"id":"68dc4b6222068461","type":"file","file":"Attatchments/ObjectHitPointTable.webp","x":-560,"y":267,"width":400,"height":137},
+		{"id":"8af2eac5b3880a6b","type":"file","file":"Attatchments/ImprovisingDamage.webp","x":-561,"y":520,"width":400,"height":312},
+		{"id":"0fbfb0bb5e6dd9e1","type":"file","file":"Attatchments/DamageSeverityPerLevel.webp","x":-120,"y":520,"width":399,"height":150},
+		{"id":"d97ba8ff3028114f","type":"file","file":"Attatchments/TargetsInAreasOfEffect.webp","x":-560,"y":880,"width":399,"height":211},
+		{"id":"3858134acff0c7d4","type":"file","file":"Attatchments/MobAttacks.webp","x":-120,"y":715,"width":259,"height":219},
+		{"id":"64c0e2a6bed5ac35","type":"file","file":"Attatchments/CreatureSizeAndSpace.webp","x":-560,"y":1140,"width":400,"height":179},
+		{"id":"6a2c76aa58c38895","x":440,"y":-440,"width":400,"height":283,"type":"file","file":"Attatchments/ExhaustionEffects.webp"}
 	],
 	"edges":[]
 }

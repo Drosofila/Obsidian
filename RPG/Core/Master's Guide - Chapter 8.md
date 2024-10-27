@@ -1,3 +1,5 @@
+# Abilities, Skills, Checks and Interactions %% fold %% 
+
 ## Saving Throws
 
 - Instant response to a harmful effect
@@ -15,13 +17,13 @@
 ## Difficulty Class (DC)
 
 - Established by the DM -  can even be changed after establishment.
-- Typical DCs:
-	- Very Easy: 5
-	- Easy: 10
-	- Moderate: 15
-	- Hard: 20
-	- Very Hard: 25
-	- Nearly Impossible: 30
+- ==Typical DCs:==
+	- ==Very Easy: 5==
+	- ==Easy: 10==
+	- ==Moderate: 15==
+	- ==Hard: 20==
+	- ==Very Hard: 25==
+	- ==Nearly Impossible: 30==
 - Consider the complexity of a task before asking for a check - easy and trivial tasks should normally be accomplished without having to go through a ability check.
 - DC 25 is very hard for low level PCs and DC 30 is nearly impossible for low level PCs.
 - Automatic successes → if the DC is (Ability Score) - 5 or less.
@@ -78,3 +80,65 @@
 - CHA check might be required for situations that offer risk or consequences to a ==friendly== NPC.
 - CHA check might be required for situation that offer risk or consequences or a situation where nothing is to be gained by an ==indifferent== NPC.
 - CHA check is required to get almost any cooperation from a hostile NPC.
+
+## Conversation
+
+- Creature’s and NPC’s attitudes can change during interactions depending on PCs actions - try to roleplay each one accordingly.
+- PC’s can attempt a WIS check to uncover one of the creature’s characteristics after striking conversation for a while.
+- Requests and Demands call for CHA checks.
+- Use the conversation reaction table for this → [[Chapter 8 Reference Tables.canvas|Chapter 8 Reference Tables]]
+- Balance Advantages and Disadvantages based on roleplaying attempts of help from other PC’s characters.
+- Particularly with CHA checks, multiple attempts at the same check can have very bad outcomes.
+
+
+## Roleplaying
+
+- Be the NPC.
+- Show, don’t tell.
+
+
+## Objects
+
+- With enough time and the right tools, PCs usually can destroy almost any object - use your judgment of the situation to impose the limits if what they want to do is insane.
+- Use the Object Armor Class Table → [[Chapter 8 Reference Tables.canvas|Chapter 8 Reference Tables]]
+- Object HP: How much damage an object can take before it breaks.
+- Object HP Table → [[Chapter 8 Reference Tables.canvas|Chapter 8 Reference Tables]]
+- Normal Weapons are useless against huge and gargantuan objects - use your good judgement. Sometimes even if makes sense that the object can be slightly damaged by the players, think about how significant this damage would be and how long it would take to achieve their goal at this rate.
+- Objects are immune to poison and psychic damage.
+- Some objects have a damage threshold that requires an amount of damage to be dealt in a single hit for it to start taking damage.
+
+
+# Combat %% fold %% 
+
+## 
+
+
+# Diseases, Poison and Madness %% fold %% 
+
+## Diseases
+
+### Cackle Fever:
+
+- Affects Humanoids, but Gnomes are immune.
+	- Victims succumb to fits of mad laughter - The Shrieks.
+	- Gains 1 Level of Exhaustion that can’t be removed until cured.
+- Sewer Plague
+
+## Poisons
+
+- Illegal in most societies.
+- Favored tool of assassins.
+- Types:
+	- Contact
+	- Ingested
+	- Inhaled
+	- Injury
+- Refer to the Poisons Table → [[Chapter 8 Reference Tables.canvas|Chapter 8 Reference Tables]]
+- There are Poison Samples at p257 of the DM Guide.
+- Usually acquiring poison is hard for most people in most places.
+- Can be crafted or harvested by the right person depending on the situation.
+
+## Madness
+
+- Normally characters aren’t driven mad by the things they face.
+- If it applies to the campaign setting, there are guidelines for madness in the DM Guide, p258.

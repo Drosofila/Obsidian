@@ -112,7 +112,7 @@
 
 # Adventuring %% fold %% 
 
-## Time %% fold %% 
+## Time
 
 - Situational needs defined by the DM.
 
@@ -187,4 +187,97 @@
 
 # Gods  %% fold %% 
 
-## 
+# Appendix A - Conditions %% fold %% 
+
+## Charmed
+
+- Charmed creatures cannot attack it’s charmer or target ir with magical effects.
+- Charmer has ADV in any social ability check with charmed creature.
+
+## Deafened
+
+- Can’t hear.
+- Automatically fails any check that requires hearing.
+
+## Frightened
+
+- DIS on ability checks and attack rolls while the source of fear is within line of sight.
+- Can’t willingly move closer to the source of it’s fear.
+
+## Grappled
+
+- Speed becomes 0
+- Condition ends if grappler is incapacitated or if the grappler is removed from the range by any effect.
+
+## Incapacitated
+
+- Can’t take actions
+
+## Invisible
+
+- Impossible to be seen without aid of magic or special sense.
+- Can be detected with sound.
+- Attack rolls against the creature have disadvantage.
+- Creature’s attack roll have advantage.
+
+## Paralyzed
+
+- Incapacitated and can’t move or speak.
+- Automatically fails STR and DES saving throws.
+- Attacks against creature have ADV.
+- Always CRIT if < 5 ft.
+
+## Petrified
+
+- Creature is transformed into a solid inanimate object.
+- Incapacitated and unaware of it’s surroundings.
+- Attack rolls against the creature have ADV.
+- Automatically fails STR and DES saving throws.
+- Immune to Poison and Disease, and if already under effect, it is neutralized.
+
+## Exhaustion
+
+- Some conditions and situations can make creatures exhausted. Exhaustion is measured in 6 levels, each with it’s drawbacks:
+	- Level 1: DIS on all Ability Checks
+	- Level 2: Speed Halved
+	- Level 3: DIS on attack and saving rolls
+	- Level 4: HP Max Halved
+	- Level 5: Speed reduced to 0.
+	- Level 6: Death.
+- The level increases by accumulating exhaustions when an already exhausted creature suffers conditions that causes it.
+- Effects that remove exhaustion reduce the level by the amount specified in the effect’s description.
+- Effects obviously stack.
+- Long rests reduce the level by 1.
+
+## Poisoned
+
+- See [[Master's Guide - Chapter 8#Poisons]]
+- Poisoned creatures have DIS on attack rolls and ability checks.
+
+## Prone
+
+- Only movement option is crawl.
+- DIS on attack rolls.
+- Attacks against creature have ADV if within 5 ft, otherwise the attack has DIS.
+
+## Restrained
+
+- Speed becomes 0.
+- Attack rolls against creature have ADV.
+- Creature’s attack rolls have DIS.
+- DIS on DEX saving throws.
+
+## Stunned
+
+- Stunned creature is incapacitated.
+- Auto fails STR and DEX saves.
+- Attack rolls against creature have ADV.
+
+## Unconscious
+
+- Unconscious creature is incapacitated.
+- Drops whatever it is holding and falls prone.
+- Auto fails DEX and STR saves.
+- Attack rolls against creature have ADV.
+- CRIT if attacker within 5 ft.
+

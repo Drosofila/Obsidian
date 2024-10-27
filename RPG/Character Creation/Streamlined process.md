@@ -64,16 +64,18 @@
 |           |          |     |     |     |     |     |     |     |
 ___ 
 
-|        | Aldren         | João   | Ayres    | Murilo            | Luiz         | Felipe             | Henrique         |     |
-| ------ | -------------- | ------ | -------- | ----------------- | ------------ | ------------------ | ---------------- | --- |
-| Classe | Wizard         | Bardo  | Barbaro  | Druida            | Ranger       | Cleric             | Rogue (assassin) |     |
-| Raça   | Anão           | Humano | Half-Orc | Elfo              | Elfo         | Dragonborn         | Halfling         |     |
-| Ficha  |                |        | Feita    | Feita             | Feita        | Feita              |                  |     |
-|        | Tarn Callanish |        | Krusk    | Felagund Tinúviel | Aelar Galadh | Drogo Zuck'erbergh |                  |     |
-|        |                |        |          |                   |              |                    |                  |     |
+|        | Aldren         | João          | Ayres    | Murilo            | Luiz         | Felipe             | Henrique          |     |
+| ------ | -------------- | ------------- | -------- | ----------------- | ------------ | ------------------ | ----------------- | --- |
+| Classe | Wizard         | Bardo         | Barbaro  | Druida            | Ranger       | Cleric             | Rogue (assassin)  |     |
+| Raça   | Anão           | Humano        | Half-Orc | Elfo              | Elfo         | Dragonborn         | Halfling          |     |
+| Ficha  | Feita          |               | Feita    | Feita             | Feita        | Feita              |                   |     |
+| Nome   | Tarn Callanish | Celine Menard | Krusk    | Felagund Tinúviel | Aelar Galadh | Drogo Zuck'erbergh | Errich Brockhouse |     |
+|        |                |               |          |                   |              |                    |                   |     |
 
 # To do:
 
 - [ ] Review proficiency bonus (all)
 - [ ] Attack Bonus (all)
 - [ ] 
+
+

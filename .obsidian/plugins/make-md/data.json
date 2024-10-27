@@ -44,7 +44,6 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
     "//RPG/RPG/DnD 5e",
     "//RPG",
     "//RPG/RPG/Rules",
@@ -54,8 +53,8 @@
     "//RPG/RPG/Campaign",
     "//RPG/RPG/Character Creation",
     "//RPG/RPG/Character Creation/RPG/Character Creation/PCs",
-    "//RPG/RPG/Campaign/RPG/Campaign/Prompts",
-    "//Excalidraw"
+    "/",
+    "//RPG/RPG/Campaign/RPG/Campaign/Prompts"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
