@@ -281,3 +281,282 @@
 - Attack rolls against creature have ADV.
 - CRIT if attacker within 5 ft.
 
+# Chapter 9 - Combat
+
+## Rounds:
+
+- A round represents about 6 seconds in the game’s world - this means that 1 minute contains 10 rounds.
+- The order of rounds is decided by initiative rolls.
+
+## Surprise:
+
+- Checks of DEX - Stealth VS WIS - Perception to see if the surprising party is detected by the surprised party.
+- Surprised creatures can’t move or take and action in their first round of combat.
+
+## Initiative
+
+- If the enemies are comprised of identical creatures, make one roll for all and let them act at the same time.
+- The initiative order is from highest DEX to lowest.
+- The initiative order remains the same until combat ends.
+- If a tie occurs when rolling initiative, creature order is decided by the DM, or the player can throw a d20 vs a creature d20 to decide who goes first. A tie between two players can be decided by them or they can also roll 2 d20 to see who goes first.
+
+## Turn
+
+### What you can do:
+
+- ==Move== a distance up to your speed AND take ==one action==.
+- You can either move first and act last or act first and move last.
+- You can move a bit, make an action, and mova again if you still have speed left.
+- You can do ==nothing==.
+- You can take an action and NOT move.
+- You can move and NOT take an action.
+- You can take a bonus action on top of everything else listed here ==IF== the action/spell has the ==bonus action== tag.
+- Unless the bonus action timing is specified you can choose when to take it during your turn.
+- To interact with objects during your turn, in most cases, you have to use an action.
+
+### Reactions:
+
+- Sometimes your abilities/spells/situation allows you to take a reaction in response to a trigger.
+- The reaction can occur on your turn or on someone else’s turn.
+
+### Difficult Terrain:
+
+- Movement cost is doubled in difficult terrain.
+- Rubble, undergrowth, snow.
+
+### Prone:
+
+- Lying on the ground.
+- Players can drop prone with an action.
+- Players can stand up by using half of their speed.
+- While prone, players can crawl to move. When crawling, movement cost is doubled.
+
+### Moving around and through
+
+- You can move through a nonhostile creature,
+- To move through a hostile creature space, the creature must be two sizes bigger than you.
+- Can’t end move in other creature’s space.
+
+### Grid Rules:
+
+- Squares: Each square is 5 ft  x 5 ft.
+- Speed is used in 5 foot segments.
+- To measure range: start counting from the square adjacent to the source and stop at the space of the target.
+
+### Squeezing:
+
+- You can squeeze through a space that is one size smaller than you.
+- Costs 1 extra foot.
+- Creature has DIS on DEX saves.
+- Attack rolls against creature have ADV.
+
+## Actions in combat:
+
+### Attack:
+
+- You make one melee or ranged attack.
+
+### Cast a spell:
+
+- Each spell has a casting time.
+- The spell specifies in the casting time if the caster has to use an action, reaction, minutes or hours to cast the spell.
+- Casting spell is not technically an action.
+- Most spells fall into the casting time of one action.
+
+### Dash:
+
+- Dash is an action that doubles your speed after any modifiers are applied.
+
+### Disengage.
+
+- The disengage action cancels any reactions in your turn
+
+### Dodge:
+
+- Until your next turn, any attacks made against you have DIS if you can see the attacker.
+- All your DEX saving throws have ADV.
+
+### Help:
+
+- The creature you aid gains ADV in their action until your next turn.
+
+### Hide:
+
+- You make a DEX - Stealth check to attempt to hide.
+
+### Ready:
+
+- You can prepare a action that is to be taken provided something happens until your next turn.
+
+### Search:
+
+- You devote your attention to try and find something.
+
+## Making an Attack:
+
+- Choose a target: pick a target within your attack range.
+- Determine modifiers: cover, ADV, DIS, penalties or bonus.
+- Resolve the attack: on a hit, you deal damage and any special effects.
+
+### Attack Rolls:
+
+- The attack roll is a d20 + appropriate modifiers.
+- If the total roll is equal or greater than the AC, the attack hits.
+- Modifiers to the attack roll:
+	- Ability modifier:
+		- Melee Weapons: STR.
+		- Ranged Weapons: DEX.
+		- Finesse weapons can choose either DEX or STR.
+		- Spells: if the spell requires an attack roll, it is the modifier for the spellcasting ability of the caster.
+	- Proficiency Bonus: If you are attacking with a weapon you are proficient with.
+- Rolling a 20 means that the attack always hits.
+- Rolling a 1 means that the attack always misses.
+
+### Unseen Attackers and Targets
+
+- If you are attacking something you can’t see, you have disadvantage on the attack roll.
+
+### Ranged Attacks
+
+- In a ranged attack you send some king of projectile towards a target.
+- Range: the smaller number is the normal range and the big number is the maximum range.
+- Beyond the normal range, your attack roll has disadvantage.
+- You have DIS if you’re within 5 ft of a hostile creature that can see you and isn’t incapacitated.
+
+### Melee Attacks
+
+- Normally creatures have a 5 ft reach for melee attacks.
+- Certain creatures have  a reach bigger than 5 ft.
+
+### Opportunity Attacks:
+
+- When a creature moves within reach of a hostile creature, the hostile creature can use their reaction to make an opportunity attack that happens as the moving creature leaves melee reach.
+
+### Two Weapon Fighting:
+
+- If you have 2 light melee weapons drawn, one in each hand, you can use a bonus action to attack with you off-hand melee weapon. 
+- Modifier isn’t added to damage, only if it’s negative.
+- If either weapon have the thrown property, you can throw it.
+
+### Grappling
+
+- You can use your action to try and grapple your opponent.
+- STR - Athletics vs STR - Athletics / DEX - Acrobatics.
+- If you succeed, your target is now grappled.
+- A grappled target can use their actions to try and escape (STR or DEX).
+- If you move, you can drag the grappled creature with you moving at half speed. Normal speed if the creature is 2 or more sizes smaller than you.
+
+### Shoving
+
+- You can use your attack action to shove a creature.
+- The shoved creature either falls prone or is pushed away from you. 
+- STR (Athletics) vs STR (Athletics) / DEX (Acrobatics).
+- You can choose to knock the target prone or shove it 5 ft away from you.
+
+### Cover
+
+- Three degrees of cover:
+- Covers don’t stack, if a target is behind multiple layers of cover, only the highest one applies.
+- Half Cover: 
+	- +2 to AC and DEX saves.
+	- An obstacle blocks half of his body.
+- 3/4 Cover: 
+	- +5 Bonus to AC and DEX saves.
+	- An obstacle blocks around 3/4 of the target’s body.
+- Total Cover:
+	- The character cannot be target directly by attacks or spells.
+	- The target has to be completely concealed by an obstacle.
+
+
+## Damage and Healing
+
+### Hit Points:
+
+- Combination of your physical and mental durability - your will to live.
+- Can reach from maximum to 0.
+
+### Damage Rolls
+
+- When your attack hits, you deal damage.
+- To determine how much damage you deal, you roll your damage dice and apply any modifiers to the result.
+
+### Critical Hits
+
+- D20
+- You can roll all of the damage dice twice and add the results.
+- After that, you can add your modifiers.
+
+### Damage types
+
+- #### Acid
+- #### Bludgeoning
+- #### Cold
+- #### Fire
+- #### Force
+- #### Lightning 
+- #### Necrotic
+- #### Piercing
+- #### Poison
+- #### Psychic
+- #### Radiant
+- #### Slashing
+- #### Thunder
+
+### Damage Resistance and Vulnerability
+
+- Resistance: damage of the resisted type is halved.
+- Vulnerability: damage of the vulnerable type is doubled.
+- The halving or doubling is applied after all rolls and modifiers are added to the attack.
+- Always reduce fixed values first, halve later.
+
+### Healing
+
+- Any damage healed is added directly to creature’s HP.
+- HP healed cannot exceed maximum HP.
+- Dead creatures cannot regain HP.
+
+### Instant Death
+
+- You die instantly if the damage remaining after your HP is reduced to 0 equals your total HP.
+
+### Falling unconscious
+
+- When your HP reaches 0, you fall unconscious.
+- If you regain any HP, unconsciousness ends.
+
+### Death Saving Throws
+
+- When you’re at 0 HP, whenever you start your turn you make a Death Saving Throw.
+- Not tied to any Ability Score
+- 10 or higher = Success
+- 9 or lower = Failure
+- 20 = +1 HP
+- 1 = 2 failures
+- On third success = you become stable
+- On third failure = you die.
+- Successes and failures DO NOT need to be consecutive.
+- Damage taken while at 0 HP = +1 Failure.
+
+### Stabilizing a Creature
+
+- Best way: Healing
+- You can use your action to stabilize the creature → DC 10 WIS Medicine check.
+- If the creature becomes stable this way, it still has 0 HP and still is unconscious, but does not need to make saving throws.
+- While stable, the creature gains 1d4 Hp per hour.
+
+### Knock Out
+
+- When a creature falls to 0 HP with a melee attack, the attacker can knock the creature out rather than killing it.
+
+### Temporary HP
+
+- Can be granted via spells or abilities
+- Temporary buffer against damage.
+- Since they are separate from your actual HP, they can exceed maximum HP.
+- Cannot be restored by healing.
+- Cannot stack from multiple sources.
+- Lasts until specified duration or until long rest.
+
+
+# Chapter 10 - Spellcasting
+

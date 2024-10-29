@@ -110,7 +110,48 @@
 
 # Combat %% fold %% 
 
-## 
+## Tracking initiative
+
+- Hidden List: keep the sequence hidden until it is naturally discovered by players.
+- Visible List: display the sequence for all to see - removes any uncertainty about when the monster hit.
+- ==Index Cards==: Each member participation in combat, PCs and monsters, get a index card. The initiative number is written in each card and the cards are arranged in order of play and after each turn the played card goes to the end of the stack.
+
+## Tracking Monster HP
+
+- Most DMs track damage in secret.
+- Try to keep the total HP a secret and give the players hints as to how badly damage each monster is during their actions.
+
+## Using and Tracking Conditions
+
+- Track conditions in the same place you track HP.
+- Don’t track conditions necessarily on the combat cards used for initiative since a monster or PC can be a target during another PC or monster’s turn and their card is buried behind all the other cards. - the ideal way would be to have the cards for initiative sequencing in a stack and a table for each character involved in combat with info tracking HP and status effects.
+- Players should be responsible for tracking their own conditions but they often tend to be forgetful. Try to keep data about everyone involved in the combat and if there’s any discrepancy between your tracking and the player’s tracking you can discuss and come to an agreement.
+- Handing condition cards to players is also an option when playing IRL.
+
+## Monsters and critical hits
+
+- Monsters and PCs follow the same rules for critical hits.
+- Improvising Damage → [[ImprovisingDamage.webp]]
+- Damage Severity and Level → [[DamageSeverityPerLevel.webp]]
+- The target in area of effect table can be used if you’re not using miniatures or any other form of visual representation for the combat → [[TargetsInAreasOfEffect.webp]]
+
+## Handling Mobs
+
+- To keep combat moving in crowded battlefields you can replace attack rolls by an average attack number:
+	- Determine the minimum d20 roll a creature needs in order to hit a target by subtracting it’s attack bonus from the targets ac (Target AC - AB).
+	- Look up the minimum d20 roll on the Mob Attacks table [[MobAttacks.webp]]
+	- The table shows how many enemies are need for 1 to hit the target.
+	- If they deal different amounts of damage, use the highest one.
+	- This system ignores critical hits.
+
+## Using miniatures and tokens
+
+- Whenever possible, It’s best to use some kind of visual representation to guide the players, even if it’s not to scale or methodically thought out.
+- The most common type of map is the 5-foot grid, however grids are not required.
+- You can use creature size (→ [[CreatureSizeAndSpace.webp]]) to represent visually the creature’s size.
+- Flanking:
+	- Only enemies that can be seen.
+	- 
 
 
 # Diseases, Poison and Madness %% fold %% 
@@ -142,3 +183,4 @@
 
 - Normally characters aren’t driven mad by the things they face.
 - If it applies to the campaign setting, there are guidelines for madness in the DM Guide, p258.
+- 

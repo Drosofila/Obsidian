@@ -11,7 +11,7 @@
 		{"id":"d97ba8ff3028114f","type":"file","file":"Attatchments/TargetsInAreasOfEffect.webp","x":-560,"y":880,"width":399,"height":211},
 		{"id":"3858134acff0c7d4","type":"file","file":"Attatchments/MobAttacks.webp","x":-120,"y":715,"width":259,"height":219},
 		{"id":"64c0e2a6bed5ac35","type":"file","file":"Attatchments/CreatureSizeAndSpace.webp","x":-560,"y":1140,"width":400,"height":179},
-		{"id":"6a2c76aa58c38895","x":440,"y":-440,"width":400,"height":283,"type":"file","file":"Attatchments/ExhaustionEffects.webp"}
+		{"id":"6a2c76aa58c38895","type":"file","file":"Attatchments/ExhaustionEffects.webp","x":440,"y":-440,"width":400,"height":283}
 	],
 	"edges":[]
 }
