@@ -1,8 +1,8 @@
 {
 	"nodes":[
 		{"id":"f2a2986f475a9552","type":"text","text":"# Casa\n\n- [x] Lavar louça\n- [x] Colocar roupa pra lavar\n- [x] Guardar roupa no varal\n---\n","x":-480,"y":-380,"width":340,"height":300},
-		{"id":"24d63a473905a1bc","type":"text","text":"# Estudar\n\n- CAE 1 - Ch. 20 and 21.\n- Chart Clinic\n---\n- Ler 2 contos, 1 e 4 (as ruinas seculares) que jaozin.","x":-100,"y":-380,"width":400,"height":660},
-		{"id":"9362628a0b35018f","type":"text","text":"# RPG\n\n- ~~Procurar qual ficha é melhor\n- ~~Revisar Ficha do Murilo\n- ~~Felipe\n- ~~Revisar Dinheiro\n- Combate\n---\n# Roteiro\n\n- ","x":-480,"y":-40,"width":340,"height":480}
+		{"id":"9362628a0b35018f","type":"text","text":"# RPG\n\n- Combate\n---\n# Roteiro\n\n- ","x":-480,"y":-40,"width":340,"height":480},
+		{"id":"24d63a473905a1bc","type":"text","text":"# Estudar\n\n- CAE 1 - Ch. 20 and 21.\n- Chart Clinic\n- 737 Adverse Weather\n- 737 VNAV modes\n- ICAO DOC 9613 - Vol I \n\t- Ch.2\n\t- Ch.3 - 3.4, 3.5, \n\t- Ch.4\n\t- Attachment A\n- ICAO Doc 9613 - Vol II\n\t- \n---\n- Ler 2 contos, 1 e 4 (as ruinas seculares) que jaozin.","x":-100,"y":-380,"width":400,"height":660}
 	],
 	"edges":[]
 }
