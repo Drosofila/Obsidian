@@ -8,8 +8,10 @@
   "image-converter",
   "obsidian-smart-typography",
   "creases",
-  "multi-column-markdown",
   "settings-search",
   "omnisearch",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-admonition",
+  "obsidian-tasks-plugin",
+  "editing-toolbar"
 ]

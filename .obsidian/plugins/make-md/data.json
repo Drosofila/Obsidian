@@ -53,7 +53,9 @@
     "//RPG/RPG/Campaign/RPG/Campaign/Prompts",
     "//RPG",
     "//RPG/RPG/Tutoriais",
-    "//Aviation"
+    "//Aviation",
+    "//Aviation/Aviation/B737",
+    "//Aviation/Aviation/Random Shit"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

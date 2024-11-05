@@ -38,10 +38,17 @@
   "minimal-style@@window-title-off": false,
   "minimal-advanced@@cursor": "default",
   "minimal-advanced@@animations": "fast-animations",
-  "minimal-style@@h1-color@@dark": "#DDDDDD",
-  "minimal-style@@h2-color@@dark": "#BBBBBB",
-  "minimal-style@@h3-color@@dark": "#999999",
-  "minimal-style@@h4-color@@dark": "#777777",
-  "minimal-style@@h5-color@@dark": "#555555",
-  "minimal-style@@h6-color@@dark": "#333333"
+  "minimal-style@@h1-color@@dark": "#9A9A9A",
+  "minimal-style@@h2-color@@dark": "#A4ACB4",
+  "minimal-style@@h3-color@@dark": "#8698A6",
+  "minimal-style@@h4-color@@dark": "#CBCED3",
+  "minimal-style@@h5-color@@dark": "#444952",
+  "minimal-style@@h6-color@@dark": "#333333",
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-lavender",
+  "minimal-style@@minimal-strike-lists": true,
+  "minimal-style@@row-lines": true,
+  "minimal-style@@col-lines": true,
+  "minimal-style@@table-lines": true
 }

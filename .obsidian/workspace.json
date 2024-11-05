@@ -8,48 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5d4e58a17cde393",
+            "id": "c935e03ae141bd46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RPG/Tutoriais/1 - Regras Básicas, Cheques, Condições e Roleplaying.md",
+                "file": "Aviation/B737/B737 Approach Flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - Regras Básicas, Cheques, Condições e Roleplaying"
+              "title": "B737 Approach Flow"
             }
           },
           {
-            "id": "d7d36d406db6d63c",
+            "id": "a99d00c9ce7fdaba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aviation/ICAO Doc 9613 - PBN Manual.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ICAO Doc 9613 - PBN Manual"
-            }
-          },
-          {
-            "id": "899468da49c9e6d2",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "To-do.canvas",
-                "viewState": {
-                  "x": 54.82091795629336,
-                  "y": -58.19679427702414,
-                  "zoom": 0.1328985538569415
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "To-do"
+              "title": "Tasks"
             }
           }
         ],
@@ -96,7 +79,7 @@
             }
           },
           {
-            "id": "1533b8d966183080",
+            "id": "d088720fb9dabd71",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -119,6 +102,7 @@
       {
         "id": "06eba70c04097076",
         "type": "tabs",
+        "dimension": 36.574074074074076,
         "children": [
           {
             "id": "06b83f41311e0c9f",
@@ -126,10 +110,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/Tutoriais/1 - Regras Básicas, Cheques, Condições e Roleplaying.md"
+                "file": "Tasks.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1 - Regras Básicas, Cheques, Condições e Roleplaying"
+              "title": "Outline of Tasks"
             }
           },
           {
@@ -177,17 +161,14 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "db977b0a692a340f",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
+          }
+        ]
+      },
+      {
+        "id": "2f7eef582cf1a6c4",
+        "type": "tabs",
+        "dimension": 28.240740740740737,
+        "children": [
           {
             "id": "bf19fc9ca45fe519",
             "type": "leaf",
@@ -198,13 +179,28 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 5
+        ]
+      },
+      {
+        "id": "5053b2a173b914c2",
+        "type": "tabs",
+        "dimension": 35.18518518518518,
+        "children": [
+          {
+            "id": "db977b0a692a340f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,21 +209,31 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
       "templates:Insert template": true,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d7d36d406db6d63c",
+  "active": "a99d00c9ce7fdaba",
   "lastOpenFiles": [
-    "To-do.canvas",
-    "Aviation/ICAO Doc 9613 - PBN Manual.md",
     "Aviation/Random Shit/WJA Routes.md",
+    "Aviation/B737/B737 Approach Flow.md",
+    "Aviation/B737/B737 Cold Weather .md",
+    "Aviation/B737/B38M Differences Notes.md",
+    "Aviation/CAE Oxford Book 1 -  Air Law.md",
+    "Aviation/The Chart Clinic Series.md",
+    "Aviation/ICAO Doc 9613 - PBN Manual.md",
+    "Aviation/Dispatch Fuel Requirements.md",
     "Aviation/An Unexpected Mathematical Explanation of the Great Circle concept.md",
+    "Tasks.md",
+    "To-do.canvas",
+    "Aviation/Random Shit/FPO Routes.md",
     "RPG/Tutoriais/1 - Regras Básicas, Cheques, Condições e Roleplaying.md",
+    "Aviation/B737/B737.md",
+    "Aviation/Aviation.md",
+    "Aviation/B737",
     "[[ImprovisingDamage.webp]].md",
     "RPG/Core/Rules from PH.md",
-    "Aviation/Random Shit/FPO Routes.md",
     "Aviation/Random Shit/Random Shit.md",
     "Aviation/Random Shit",
     "Aviation/Random shit.md",
@@ -239,8 +245,6 @@
     "Attatchments/DamageSeverityPerLevel.webp",
     "Attatchments/ImprovisingDamage.webp",
     "Attatchments/Master's Guide - Chapter 8-20241027235029722.webp",
-    "Aviation/B737 Cold Weather .md",
-    "Untitled.md",
     "RPG/Campaign/Main Plot.md",
     "RPG/Campaign/Inter-PC Hooks.canvas",
     "RPG/Character Creation/Streamlined process.md",
@@ -248,18 +252,12 @@
     "RPG/Character Creation/PCs/Aldren.md",
     "RPG/Character Creation/PCs/Henrique.md",
     "Attatchments/ExhaustionEffects.webp",
-    "RPG/Character Creation/Classes and Races notes.md",
-    "RPG/Campaign/Prompts/Prompts.md",
     "Attatchments/CreatureSizeAndSpace.webp",
     "Attatchments/MobAttacks.webp",
     "Attatchments/TargetsInAreasOfEffect.webp",
     "Attatchments/ObjectHitPointTable.webp",
     "Attatchments/PoisonsTable.webp",
     "Attatchments/Pasted image 20241026183438.png",
-    "RPG/Character Creation/PCs/Luiz.md",
-    "Excalidraw/Excalidraw.md",
-    "Excalidraw/Drawing 2024-10-26 14.53.03.excalidraw.md",
-    "RPG/Campaign/Prompts/Warlock's Quest Prompt.md",
     "RPG/Tutoriais",
     "RPG/Campaign/Prompts",
     "RPG/Campaign/Stat Blocks.canvas",
@@ -272,7 +270,6 @@
     "Untitled.canvas",
     "Untitled 1.canvas",
     "RPG/Combat",
-    "Tags",
-    "Excalidraw"
+    "Tags"
   ]
 }

@@ -1,8 +1,10 @@
 {
   "cssTheme": "Minimal",
   "baseFontSizeAction": true,
-  "baseFontSize": 17,
+  "baseFontSize": 16,
   "accentColor": "#8c8c8c",
   "textFontFamily": "Arial",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "interfaceFontFamily": "Arial",
+  "showViewHeader": true
 }
