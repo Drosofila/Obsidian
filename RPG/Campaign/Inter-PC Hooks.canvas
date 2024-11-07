@@ -4,14 +4,14 @@
 		{"id":"76a98534d551b6a5","type":"text","text":"# Felagund Tinúviel\n- Explorando o Oeste da costa da espada em sua jornada nomádica em busca de conhecimento, conheceu o Ranger Aelar quando passava por Comathor.","x":-640,"y":-440,"width":400,"height":200},
 		{"id":"d3db1bb67f7fd30b","type":"text","text":"Intrigado pela jornada de Felagund, Aelar decide se juntar à próxima etapa da jornada do elfo a fim de o auxiliar em suas descobertas. Com a intenção de encontrar alguém capaz de instruí-los a respeito de magias avançadas, regiões inexploradas e travessias interplanares, os dois partem em direção ao oeste, na expectativa de desvendar novas informações em Baldur’s Gate - uma das maiores cidades  da Costa da Espada.","x":-416,"y":-100,"width":426,"height":300},
 		{"id":"b1433dd935687d2c","type":"text","text":"Durante a viagem, na cidade de Scornubel, a dupla é informada que um grupo de aventureiros procura ajuda para executar uma tarefa para um velho Warlock que pode ser a chave para as novas descobertas que buscam.\nAssim, os dois se encontram com um grupo de aventureiros que se prepara para visitar Madryck Roslof.","x":-416,"y":300,"width":426,"height":240},
-		{"id":"d19dabd43ea0641b","type":"file","file":"Attatchments/Murilo.jpg","x":-640,"y":-630,"width":189,"height":189},
-		{"id":"04082d8d5f4b54b1","type":"file","file":"Attatchments/Luiz.png","x":-80,"y":-631,"width":190,"height":190},
-		{"id":"ae2a459b5ad2b5b8","type":"file","file":"Attatchments/Pasted image 20241026145637.png","x":-1534,"y":-166,"width":989,"height":432},
-		{"id":"a37d60d004efdbeb","type":"file","file":"Attatchments/Ayres.png","x":1280,"y":111,"width":194,"height":194},
+		{"id":"d19dabd43ea0641b","type":"file","file":"Attachments/Murilo.jpg","x":-640,"y":-630,"width":189,"height":189},
+		{"id":"04082d8d5f4b54b1","type":"file","file":"Attachments/Luiz.png","x":-80,"y":-631,"width":190,"height":190},
+		{"id":"ae2a459b5ad2b5b8","type":"file","file":"Attachments/Pasted image 20241026145637.png","x":-1534,"y":-166,"width":989,"height":432},
+		{"id":"a37d60d004efdbeb","type":"file","file":"Attachments/Ayres.png","x":1280,"y":111,"width":194,"height":194},
 		{"id":"ed4072ce1aaac27d","type":"text","text":"# Krusk\n\nEnquanto acreditava estar viajando para noroeste na direção de Waterdeep, Krusk começou a suspeitar que estava perdido depois de levar 14 dias para fazer uma viagem que deveria ter durado 3. No décimo quinto dia, avistou uma comoção estranha próximo à algumas colinas e decidiu investigar. Ao chegar na misteriosa feira, Krusk ","x":1280,"y":305,"width":363,"height":455},
-		{"id":"70055ad822ebd119","type":"file","file":"Attatchments/Joao.jpg","x":1320,"y":-1080,"width":400,"height":400},
-		{"id":"9a59b434eeeface7","type":"file","file":"Attatchments/Aldren.png","x":1760,"y":-1080,"width":400,"height":399},
-		{"id":"4c062a94de5af3a6","type":"file","file":"Attatchments/felipe.jpg","x":860,"y":-1081,"width":400,"height":400}
+		{"id":"70055ad822ebd119","type":"file","file":"Attachments/Joao.jpg","x":1320,"y":-1080,"width":400,"height":400},
+		{"id":"9a59b434eeeface7","type":"file","file":"Attachments/Aldren.png","x":1760,"y":-1080,"width":400,"height":399},
+		{"id":"4c062a94de5af3a6","type":"file","file":"Attachments/felipe.jpg","x":860,"y":-1081,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"206f76781a2c4e7f","fromNode":"76a98534d551b6a5","fromSide":"right","toNode":"172e8b609a6c7b1c","toSide":"left"},

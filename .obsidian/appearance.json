@@ -6,5 +6,6 @@
   "textFontFamily": "Arial",
   "theme": "obsidian",
   "interfaceFontFamily": "Arial",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "nativeMenus": false
 }

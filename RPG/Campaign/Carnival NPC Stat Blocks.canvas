@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"6e03c06e7c2bf0f9","type":"file","file":"Attachments/MrWitch.webp","x":-440,"y":-340,"width":399,"height":203},
+		{"id":"6ff09c11bd1ddd7d","type":"file","file":"Attachments/MrLight.webp","x":-440,"y":-100,"width":400,"height":224},
+		{"id":"037a36e413f533fd","type":"file","file":"Attachments/WitchlightHand.webp","x":0,"y":-340,"width":278,"height":400}
+	],
+	"edges":[]
+}

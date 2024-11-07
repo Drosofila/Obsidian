@@ -9,8 +9,24 @@
 - Cada um dos PCs verá nessa oportunidade a possibilidade de conquistar ou de chegar um passo mais perto de seus objetivos pessoais (vide [[Inter-PC Hooks.canvas|Inter-PC Hooks]])
 - Ao chegar na Cabana, são recebidos pelo Warlock - [[Warlock's Quest Prompt]]
 
+# Locations
+
 ## The Witchlight Carnival
 
-### Locations:
+### The Ticket Booth / **Bilheteria
 
-#### 
+- 
+
+# Characters
+
+## Madryck Roslof
+
+## Mr. Witch
+
+## Mr. Light
+
+## Thieves
+
+### Lornling
+### Sowpig
+### Endelyn Moongrave

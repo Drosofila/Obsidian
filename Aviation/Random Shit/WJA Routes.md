@@ -1,3 +1,20 @@
+# Legs
+
+| #   | Destination | Flight # | Gate | STT | TOT | LDT | COT |
+| --- | :---------: | -------- | :--: | --- | --- | --- | --- |
+| 1   |             |          |      |     |     |     |     |
+| 2   |             |          |      |     |     |     |     |
+| 3   |    CYVR     | 129      |      |     |     |     |     |
+| 4   |    CYYC     | 108      |      |     |     |     |     |
+| 5   |    CYXX     | 191      |      |     |     |     |     |
+| 6   |             |          |      |     |     |     |     |
+| 7   |             |          |      |     |     |     |     |
+| 8   |             |          |      |     |     |     |     |
+| 9   |             |          |      |     |     |     |     |
+
+
+# Routes
+
 1. YEG (255) - YYC (288)
 2. ==YEG (255) - YVR (161) - YYC (100)==
 3. YVR (309) - YEG (160) - YYC (288)
@@ -7,7 +24,7 @@
 7. YZF (221) - YYC (222)
 8. YMM (145) - YYC (344)
 9. YQU (342) - YYC (144)
-10. YQQ (309) - YYC (310)
+10. YQQ (309) - YYC (310) 
 11. YEG (255) - YQQ (345) - YEG (310)
 12. YLW (279) - YYC (280)
 13. YEG (255) - YLW (189) - YEG (190) 
@@ -24,8 +41,8 @@
 4000-4099 - Charter
 ```
 
-
-# Domestic West Canada - YYC
+# Timetables
+## Domestic West Canada - YYC
 
 | Index | Destination | #   | Destination | #   | Destination | #   | Destination | #   | Destination | #   |
 |:-----:|:-----------:| --- |:-----------:| --- |:-----------:| --- | ----------- | --- | ----------- | --- |
@@ -38,7 +55,7 @@
 |   7   |             |     |             |     |             |     |             |     |             |     |
 |   8   |             |     |             |     |             |     |             |     |             |     |
 
-# Domestic Canada - YYZ
+## Domestic Canada - YYZ
 
 
 |     |     |
@@ -46,7 +63,7 @@
 |     |     |
 
 
-# International US - YYC
+## International US - YYC
 
 | Index | Destination | #    | Destination | #    |
 | :---: | :---------: | ---- | :---------: | ---- |
@@ -58,21 +75,21 @@
 |   6   |     PSP     |      |     YYC     |      |
 |   7   |     SAN     |      |     YYC     |      |
 |   8   |             |      |             |      |
-# International US - YEG 
+## International US - YEG 
 
 
 |     |     |
 | --- | --- |
 |     |     |
 
-# International US - YXE / YQR / YWG
+## International US - YXE / YQR / YWG
 
 
 |     |     |
 | --- | --- |
 |     |     |
 
-# International US - YYZ
+## International US - YYZ
 
 
 |     |     |

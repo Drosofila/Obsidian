@@ -1,14 +1,14 @@
 {
 	"nodes":[
-		{"id":"9844ff90cafa57ae","type":"file","file":"Attatchments/AdventuringGear1.png","x":240,"y":-440,"width":880,"height":804},
-		{"id":"4299a755c82638ea","type":"file","file":"Attatchments/Armor.png","x":-680,"y":-440,"width":880,"height":446,"color":"1"},
-		{"id":"9656431dc62d72c9","type":"file","file":"Attatchments/Weapons.png","x":-680,"y":40,"width":880,"height":1012},
-		{"id":"11acf8784aa59a6d","type":"file","file":"Attatchments/LanguageList.png","x":1930,"y":-440,"width":690,"height":847},
-		{"id":"3e7fcc11ef2a0d21","type":"file","file":"Attatchments/ContainerCapacity.png","x":2680,"y":-440,"width":640,"height":526},
-		{"id":"87f0a40868840f30","type":"file","file":"Attatchments/StartingWealth.png","x":3360,"y":-440,"width":826,"height":627},
+		{"id":"9844ff90cafa57ae","type":"file","file":"Attachments/AdventuringGear1.png","x":240,"y":-440,"width":880,"height":804},
+		{"id":"4299a755c82638ea","type":"file","file":"Attachments/Armor.png","x":-680,"y":-440,"width":880,"height":446,"color":"1"},
+		{"id":"9656431dc62d72c9","type":"file","file":"Attachments/Weapons.png","x":-680,"y":40,"width":880,"height":1012},
+		{"id":"11acf8784aa59a6d","type":"file","file":"Attachments/LanguageList.png","x":1930,"y":-440,"width":690,"height":847},
+		{"id":"3e7fcc11ef2a0d21","type":"file","file":"Attachments/ContainerCapacity.png","x":2680,"y":-440,"width":640,"height":526},
+		{"id":"87f0a40868840f30","type":"file","file":"Attachments/StartingWealth.png","x":3360,"y":-440,"width":826,"height":627},
 		{"id":"c2fd183c5af284c8","type":"text","text":"# GEAR","x":598,"y":-540,"width":165,"height":60},
-		{"id":"102391f580d4a52b","type":"file","file":"Attatchments/EquipmentPacks.png","x":1160,"y":-440,"width":720,"height":1117},
-		{"id":"86f96b2ee36dd3a2","type":"file","file":"Attatchments/AdventuringGear2.png","x":241,"y":400,"width":880,"height":432}
+		{"id":"102391f580d4a52b","type":"file","file":"Attachments/EquipmentPacks.png","x":1160,"y":-440,"width":720,"height":1117},
+		{"id":"86f96b2ee36dd3a2","type":"file","file":"Attachments/AdventuringGear2.png","x":241,"y":400,"width":880,"height":432}
 	],
 	"edges":[
 		{"id":"678d97419e132a0e","fromNode":"4299a755c82638ea","fromSide":"bottom","toNode":"9656431dc62d72c9","toSide":"top"},
