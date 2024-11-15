@@ -46,5 +46,7 @@
   "minimal-style@@row-lines": true,
   "minimal-style@@col-lines": true,
   "minimal-style@@table-lines": true,
-  "minimal-advanced@@animations": "disable-animations"
+  "minimal-advanced@@animations": "disable-animations",
+  "minimal-style@@bold-modifier": 300,
+  "minimal-style@@bold-color@@dark": "#D1D1D1"
 }

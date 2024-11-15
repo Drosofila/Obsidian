@@ -1,8 +1,3 @@
-# Notes
-
-- Can hook Aldren with the Warlock Madrif Roslof.
-# Plot
-
 ## Hook - Warlock’s Quest
 
 - O Grupo, reunido pelos seus [relacionamentos prévios]([[Inter-PC Hooks.canvas|Inter-PC Hooks]]) segue a sugestão de Tarn sobre visitar o velho Warlock em sua cabana em XXXXXXXXX.

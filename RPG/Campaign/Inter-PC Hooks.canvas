@@ -7,11 +7,12 @@
 		{"id":"d19dabd43ea0641b","type":"file","file":"Attachments/Murilo.jpg","x":-640,"y":-630,"width":189,"height":189},
 		{"id":"04082d8d5f4b54b1","type":"file","file":"Attachments/Luiz.png","x":-80,"y":-631,"width":190,"height":190},
 		{"id":"ae2a459b5ad2b5b8","type":"file","file":"Attachments/Pasted image 20241026145637.png","x":-1534,"y":-166,"width":989,"height":432},
-		{"id":"a37d60d004efdbeb","type":"file","file":"Attachments/Ayres.png","x":1280,"y":111,"width":194,"height":194},
-		{"id":"ed4072ce1aaac27d","type":"text","text":"# Krusk\n\nEnquanto acreditava estar viajando para noroeste na direção de Waterdeep, Krusk começou a suspeitar que estava perdido depois de levar 14 dias para fazer uma viagem que deveria ter durado 3. No décimo quinto dia, avistou uma comoção estranha próximo à algumas colinas e decidiu investigar. Ao chegar na misteriosa feira, Krusk ","x":1280,"y":305,"width":363,"height":455},
-		{"id":"70055ad822ebd119","type":"file","file":"Attachments/Joao.jpg","x":1320,"y":-1080,"width":400,"height":400},
-		{"id":"9a59b434eeeface7","type":"file","file":"Attachments/Aldren.png","x":1760,"y":-1080,"width":400,"height":399},
-		{"id":"4c062a94de5af3a6","type":"file","file":"Attachments/felipe.jpg","x":860,"y":-1081,"width":400,"height":400}
+		{"id":"ed4072ce1aaac27d","type":"text","text":"# Krusk\n\nEnquanto acreditava estar viajando para noroeste na direção de Waterdeep, Krusk começou a suspeitar que estava perdido depois de levar 14 dias para fazer uma viagem que deveria ter durado 3. No décimo quinto dia, avistou uma comoção estranha próximo à algumas colinas e decidiu investigar. Ao chegar na misteriosa feira, Krusk adquiriu seu ingresso e logo se encontrou com Celine, que viu no meio-orc uma oportunidade de aventura.","x":1440,"y":423,"width":363,"height":455},
+		{"id":"a37d60d004efdbeb","type":"file","file":"Attachments/Ayres.png","x":1440,"y":229,"width":194,"height":194},
+		{"id":"153ab02fb6932c1e","type":"file","file":"Attachments/Henrique+Rato.webp","x":1000,"y":-620,"width":180,"height":180},
+		{"id":"4c062a94de5af3a6","type":"file","file":"Attachments/felipe.jpg","x":760,"y":-620,"width":180,"height":180},
+		{"id":"70055ad822ebd119","type":"file","file":"Attachments/Joao.jpg","x":1260,"y":-620,"width":180,"height":180},
+		{"id":"9a59b434eeeface7","type":"file","file":"Attachments/Aldren.png","x":580,"y":211,"width":180,"height":179}
 	],
 	"edges":[
 		{"id":"206f76781a2c4e7f","fromNode":"76a98534d551b6a5","fromSide":"right","toNode":"172e8b609a6c7b1c","toSide":"left"},
