@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "310629c65f5c976b",
+        "id": "c3e5fa64b3b12778",
         "type": "tabs",
         "children": [
           {
-            "id": "163a0255fb87b7b0",
+            "id": "e2729034486928d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aviation/An Unexpected Mathematical Explanation of the Great Circle concept.md",
+                "file": "Notion/Histórico de Exibição - 2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "An Unexpected Mathematical Explanation of the Great Circle concept"
+              "title": "Histórico de Exibição - 2024"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#thai",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "0bfa6a310c4fd739",
+            "id": "63fbf806c51553eb",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -97,7 +97,7 @@
       {
         "id": "06eba70c04097076",
         "type": "tabs",
-        "dimension": 36.574074074074076,
+        "dimension": 50.96774193548387,
         "children": [
           {
             "id": "06b83f41311e0c9f",
@@ -105,10 +105,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aviation/AFM Reviews/Diamond DA-42 IV.md"
+                "file": "Aviation/AFM Reviews/Pilatus PC-12.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Diamond DA-42 IV"
+              "title": "Outline of Pilatus PC-12"
             }
           },
           {
@@ -160,26 +160,9 @@
         ]
       },
       {
-        "id": "2f7eef582cf1a6c4",
-        "type": "tabs",
-        "dimension": 28.24074074074074,
-        "children": [
-          {
-            "id": "bf19fc9ca45fe519",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          }
-        ]
-      },
-      {
         "id": "5053b2a173b914c2",
         "type": "tabs",
-        "dimension": 35.18518518518518,
+        "dimension": 49.03225806451612,
         "children": [
           {
             "id": "db977b0a692a340f",
@@ -206,64 +189,63 @@
       "canvas:Create new canvas": true,
       "templates:Insert template": true,
       "omnisearch:Omnisearch": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "163a0255fb87b7b0",
+  "active": "e2729034486928d8",
   "lastOpenFiles": [
-    "Tasks.md",
-    "Attachments/Dump.md",
-    "Academia/Treinos.md",
-    "Academia/Academia.md",
-    "Aviation/B737/Systems.md",
-    "Aviation/Random Shit/WJA Routes.md",
-    "Aviation/Random Shit/West Canada Random.md",
-    "Aviation/Random Shit/Random Shit.md",
-    "Filmes/IJ.md",
-    "Filmes/Filmes.md",
-    "Aviation/Random Shit/FPO Routes.md",
+    "Aviation/AFM Reviews/Cessna C525 CitationJet (SNs 0032-0099).md",
+    "Attachments/52.jpg",
+    "Attachments/51.jpg",
+    "Attachments/49.jpg",
+    "Attachments/48.jpg",
+    "Attachments/47.jpg",
+    "Attachments/46.jpg",
+    "Attachments/45.jpg",
+    "Attachments/44.jpg",
+    "Attachments/43.jpg",
+    "Attachments/42.jpg",
+    "Notion/Histórico de Exibição - 2024.md",
+    "Notion",
+    "Aviation/AFM Reviews/Cessna C525 CitationJet.md.backup",
+    "Aviation/Routes/FPO Routes.md",
+    "Aviation/AFM Reviews/Pilatus PC-12.md",
+    "Aviation/AFM Reviews/Learjet 35.md",
+    "Aviation/AFM Reviews/Piper PA-24 Comanche.md",
+    "Aviation/AFM Reviews/Piper PA-31 Navajo.md",
+    "Aviation/AFM Reviews/TBM 850.md",
+    "Aviation/AFM Reviews/Cessna 414 Chancellor.md",
+    "Aviation/AFM Reviews/Piper PA28 Arrow III Corisco.md",
+    "Aviation/An Unexpected Mathematical Explanation of the Great Circle concept.md",
+    "Aviation/FAA AFH/Ch. 15 - Transition to Turbopropeller Airplanes.md",
+    "Aviation/FAA AFH/FAA AFH.md",
+    "Aviation/FAA AFH",
     "Aviation/AFM Reviews/Diamond DA-42 IV.md",
+    "Excalidraw/PC12 Drawings/PC12 Before Start.md",
+    "Excalidraw/PC12 Drawings/PC12 base.md",
+    "Excalidraw/PC12 Drawings/PC12 Drawings.md",
+    "Excalidraw/PC12 Drawings/PC12 Receiving Flow.md",
+    "Excalidraw/B737 Drawings/10k Climb Flow.md",
+    "Excalidraw/B737 Drawings/B737 Drawings.md",
+    "Excalidraw/B737 Drawings",
+    "Excalidraw/PC12 Drawings",
+    "Excalidraw/PC12 Drawings/PC12 After Start.md",
+    "Excalidraw/Excalidraw.md",
     "Aviation/AFM Reviews/AFM Reviews.md",
+    "Tasks.md",
+    "Aviation/ICAO Doc 9613 - PBN Manual.md",
+    "RPG/Campaign/Carnival Reference.canvas",
+    "RPG/Campaign/Inter-PC Hooks.canvas",
     "Aviation/AFM Reviews",
-    "Aviation/Aviation.md",
-    "Filmes/IJ/IJ.md",
     "Filmes/IJ",
     "Filmes",
-    "Aviation/B737/In Flight Flows.md",
-    "Aviation/CAE Oxford Book 1 -  Air Law.md",
-    "Aviation/B737/B737 Approach Flow.md",
-    "Aviation/B737/B38M Differences Notes.md",
-    "Attachments/CostumesandAccessories.webp",
-    "Attachments/BigTopActs.webp",
-    "Aviation/B737/B737 Cold Weather .md",
     "Academia",
-    "RPG/RPG.md",
-    "RPG/Campaign/Sessão 1/The Witchlight Carnival.md",
-    "Aviation/An Unexpected Mathematical Explanation of the Great Circle concept.md",
-    "Aviation/B737/B737.md",
-    "RPG/Campaign/Inter-PC Hooks.canvas",
-    "RPG/Campaign/Sessão 1/Roteiro.md",
-    "RPG/Campaign/Sessão 1/Notas.md",
     "RPG/Campaign/Carnival NPC Stat Blocks.canvas",
-    "RPG/Campaign/Carnival Reference.canvas",
-    "Attachments/TicketPacks.webp",
-    "Attachments/Henrique+Rato.webp",
-    "Attachments/WitchlightHand.webp",
     "Attatchments",
-    "RPG/Campaign/Sessão 1",
-    "Attachments/MrWitch.webp",
-    "Attachments/CarnivalScenes.webp",
-    "Attachments/MrLight.webp",
     "To-do.canvas",
-    "Aviation/B737",
-    "Aviation/Random Shit",
     "RPG/Core/Chapter 8 Reference Tables.canvas",
     "RPG/Character Creation/Tables.canvas",
-    "Attachments/DamageSeverityPerLevel.webp",
-    "Attachments/ImprovisingDamage.webp",
-    "RPG/Tutoriais",
-    "RPG/Campaign/Prompts",
     "RPG/Campaign/Stat Blocks.canvas",
     "RPG/Character Creation/Flow.canvas",
     "RPG/Combat/Initiative Cards.canvas",

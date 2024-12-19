@@ -69,6 +69,7 @@ O vestiário é uma confusão de cores e coisas: mesas cheias de kits de maquiag
 ## Bubble-Pop Teapot / A Bule Borbulhante
 
 ```ad-summary
+title: Descrição
 
 Diante de vocês, um bule de 6 metros de altura repousa sobre uma plataforma de madeira. Suas paredes estão pintadas com uma tinta que se move e a arte representa dragões que cospem bolhas. Na base do bule vocês conseguem ver uma porta que parece dar acesso ao interior do bule. 
 
@@ -100,3 +101,12 @@ title: Traclewise
 	- Após 1 minuto, a bolha estoura e o passageiro flutua lentamente até o chão.
 	- Apenas 1 criatura por bolha.
 	- Na bolha, o PC pode fazer um cheque <font color="#00b050">DC10 DEX (Acrobatics) </font>pra assumir o controle da bolha por quanto tempo quiser dentro dos limites do Carnaval.
+
+## Calliope
+
+```ad-summary
+title: Descrição
+
+Um carrinho repleto de apitos pilotado por um macaco circula pelo Carnaval. O macaco gira uma manivela que faz com que os apitos emitam uma melodia. Um goblin rabugento fantasiado de joaninha segue o carrinho de perto com uma caneca de metal arrecadando doações voluntárias dos visitantes.
+```
+

@@ -7,11 +7,10 @@
   "obsidian-excalidraw-plugin",
   "image-converter",
   "obsidian-smart-typography",
-  "creases",
   "settings-search",
   "omnisearch",
-  "table-editor-obsidian",
   "obsidian-admonition",
   "obsidian-tasks-plugin",
-  "editing-toolbar"
+  "editing-toolbar",
+  "obsidian-importer"
 ]
